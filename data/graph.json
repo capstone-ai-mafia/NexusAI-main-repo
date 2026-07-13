@@ -1,0 +1,6698 @@
+{
+  "nodes": [
+    {
+      "name": "It Security Review",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "Nexus Technologies — Information Technology (IT) Policy"
+        },
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "All Nexus Employees, Contractors, And Temporary Staff",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "Nexus Technologies — Information Technology (IT) Policy"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "It Resource Management",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "1. Purpose & Scope"
+        }
+      ]
+    },
+    {
+      "name": "Office-Based Employees",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "1. Purpose & Scope"
+        }
+      ]
+    },
+    {
+      "name": "Company Profile",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "1. Purpose & Scope"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Related documents"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Working Model",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "1. Purpose & Scope"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Device Management",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        },
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "11. Device Management"
+        }
+      ]
+    },
+    {
+      "name": "Personal Devices Used For Company Work",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        }
+      ]
+    },
+    {
+      "name": "It & Internal Systems",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        },
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "6. Software Installation"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "12. Security Responsibilities"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Lost Or Stolen Devices",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        }
+      ]
+    },
+    {
+      "name": "Manager",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "15. Training & Development"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "15.2 Types of learning"
+        }
+      ]
+    },
+    {
+      "name": "Additional Hardware (External Monitors, Docking Stations) Via Nexusboard It Request Queue",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        }
+      ]
+    },
+    {
+      "name": "Hrbp And It",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        }
+      ]
+    },
+    {
+      "name": "All Company Devices",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "2. Company Devices"
+        }
+      ]
+    },
+    {
+      "name": "Software Installation",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "6. Software Installation"
+        }
+      ]
+    },
+    {
+      "name": "Nexusboard Software Request Portal",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "6. Software Installation"
+        },
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Pre-Approved Software Catalog",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "6. Software Installation"
+        }
+      ]
+    },
+    {
+      "name": "Ai Tools Usage",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "7. AI Tools Usage"
+        }
+      ]
+    },
+    {
+      "name": "Nexus-Approved Ai Tools List",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "7. AI Tools Usage"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Confidential Information",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "7. AI Tools Usage"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "4. Confidential Information"
+        }
+      ]
+    },
+    {
+      "name": "Public/Consumer-Facing Ai Tools",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "7. AI Tools Usage"
+        }
+      ]
+    },
+    {
+      "name": "Email Security",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "8. Email Security"
+        }
+      ]
+    },
+    {
+      "name": "Remote Work",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "8. Email Security"
+        },
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "1. Remote Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Internet Usage",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "9. Internet Usage"
+        }
+      ]
+    },
+    {
+      "name": "Core Hours",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "9. Internet Usage"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "6. Workplace Expectations"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Storage",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "10. Cloud Storage"
+        }
+      ]
+    },
+    {
+      "name": "Nexusdocs",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "10. Cloud Storage"
+        },
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "12. Internal Communication Tools"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "Nexusboard",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "10. Cloud Storage"
+        },
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "12. Internal Communication Tools"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Cloud Infrastructure",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "10. Cloud Storage"
+        }
+      ]
+    },
+    {
+      "name": "Device Management",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "11. Device Management"
+        }
+      ]
+    },
+    {
+      "name": "Backup Policy",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "12. Backup Policy"
+        }
+      ]
+    },
+    {
+      "name": "Employee Devices",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": "12. Backup Policy"
+        }
+      ]
+    },
+    {
+      "name": "Vpn",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        }
+      ]
+    },
+    {
+      "name": "Phishing Simulation Test",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Security Refresher Module",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Uncommon Or Data-Access-Heavy Tools",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Most Common Productivity And Developer Tools",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_IT_Policy.md",
+          "department": "it",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Cto",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "6. Departments"
+        }
+      ]
+    },
+    {
+      "name": "Engineering & It",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "6. Departments"
+        }
+      ]
+    },
+    {
+      "name": "Vp Of Engineering",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "7. Employee Roles (by Department)"
+        }
+      ]
+    },
+    {
+      "name": "Engineering Director",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "7. Employee Roles (by Department)"
+        }
+      ]
+    },
+    {
+      "name": "Vp Of Product",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "7. Employee Roles (by Department)"
+        }
+      ]
+    },
+    {
+      "name": "Group Product Manager",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "7. Employee Roles (by Department)"
+        }
+      ]
+    },
+    {
+      "name": "Leveling Framework",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "Legal & Compliance"
+        }
+      ]
+    },
+    {
+      "name": "Ic Track",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "Legal & Compliance"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9. Performance Reviews"
+        }
+      ]
+    },
+    {
+      "name": "Management Track",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "Legal & Compliance"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9. Performance Reviews"
+        }
+      ]
+    },
+    {
+      "name": "Elt",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "Legal & Compliance"
+        },
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        },
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "L7",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "Legal & Compliance"
+        }
+      ]
+    },
+    {
+      "name": "Squad",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "7.2 Squads, Pods, and DRIs"
+        },
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Pod",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "7.2 Squads, Pods, and DRIs"
+        },
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Ceo",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "8. Reporting Hierarchy"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Board Of Directors",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "8. Reporting Hierarchy"
+        }
+      ]
+    },
+    {
+      "name": "Approval Hierarchy",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9. Approval Hierarchy"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "External communications (press, public statements, social media on behalf of Nexus) require approval per the Approval Hierarchy (Marketing Director → CMO → CEO if material)."
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "General Principles",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9. Approval Hierarchy"
+        }
+      ]
+    },
+    {
+      "name": "Hiring Requisition",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9. Approval Hierarchy"
+        }
+      ]
+    },
+    {
+      "name": "Hr Director",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9. Approval Hierarchy"
+        }
+      ]
+    },
+    {
+      "name": "Promotion",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9. Approval Hierarchy"
+        }
+      ]
+    },
+    {
+      "name": "Director/Vp Sign-Off",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9. Approval Hierarchy"
+        }
+      ]
+    },
+    {
+      "name": "Purchase Requisition",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Department Director/Vp",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "New Vendor/Contract",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Cfo + Relevant C-Suite Sponsor",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Expense Reimbursement",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        },
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "2. Expense Reimbursement"
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Company-Wide Policy (Hr, Legal, Security, It, Finance Manuals)",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Executive Leadership Team",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.3 Purchase, Expense & Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Contract Discount",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Above 30% Discount Or Non-Standard Terms",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Pto / Leave Request",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Direct Manager",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Product Feature Launch",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Vp Of Product → Vp Of Sales + Cfo",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Enterprise Commercial Deal",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Cro + Ceo",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+        }
+      ]
+    },
+    {
+      "name": "Hybrid-Flexible Working Model",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "10. Office Locations"
+        }
+      ]
+    },
+    {
+      "name": "Remote-First Roles",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "10. Office Locations"
+        }
+      ]
+    },
+    {
+      "name": "Company Terminology",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "12. Internal Communication Tools"
+        }
+      ]
+    },
+    {
+      "name": "Nexusconnect",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "12. Internal Communication Tools"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "1. Remote Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Nexusmail",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "12. Internal Communication Tools"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        }
+      ]
+    },
+    {
+      "name": "Nexusmeet",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": "12. Internal Communication Tools"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "1. Remote Work Policy"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "4. Meeting Policy"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Sync",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Remote-First Employees",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "10. Remote Access"
+        }
+      ]
+    },
+    {
+      "name": "Nexus",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3. Intellectual Property (IP)"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        },
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Ciso",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        }
+      ]
+    },
+    {
+      "name": "Dri",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        },
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Future Documents",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "This Profile",
+      "sources": [
+        {
+          "source": "company_profile.md",
+          "department": "company",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Password Policy",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Nexus Technologies — Legal & Compliance Manual"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "Nexus Technologies — Information Security Policy"
+        }
+      ]
+    },
+    {
+      "name": "Data Protection",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Nexus Technologies — Legal & Compliance Manual"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.2 Data protection regulations"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "Nexus Technologies — Information Security Policy"
+        }
+      ]
+    },
+    {
+      "name": "Legal & Compliance Manual",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "General Counsel",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Hr Policy Manual",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Nexus Technologies — HR Policy Manual"
+        }
+      ]
+    },
+    {
+      "name": "Code Of Conduct",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11. Code of Conduct"
+        }
+      ]
+    },
+    {
+      "name": "Remote Work Policy",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Related documents"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4. Working Hours"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "6.3 Working while unwell / remote sick days"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.4 Feedback principles"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11.3 Confidentiality and remote work"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16. Onboarding"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16.4 Remote onboarding"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "17.3 Access, assets, and security"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "18. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Home-Office Security",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        }
+      ]
+    },
+    {
+      "name": "Security (Infosec) Standards",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Related documents"
+        }
+      ]
+    },
+    {
+      "name": "Legal",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Boundary note — Legal vs. Security"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "Boundary note — Legal vs. Security"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.2 Privacy principles"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.5 Personal data breach response"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "All Employees, Interns, And Fixed-Term Staff",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "1.2 Scope"
+        }
+      ]
+    },
+    {
+      "name": "Contractors, Vendors, And Partners",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "1.2 Scope"
+        }
+      ]
+    },
+    {
+      "name": "Nda",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2. Non-Disclosure Agreements (NDAs)"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Approved Nda",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2. Non-Disclosure Agreements (NDAs)"
+        }
+      ]
+    },
+    {
+      "name": "Nda Template",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        }
+      ]
+    },
+    {
+      "name": "Legal & Compliance",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9. Compliance Program"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "8. Ethics"
+        }
+      ]
+    },
+    {
+      "name": "Deal Or Engagement Owner",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        }
+      ]
+    },
+    {
+      "name": "Standard Nda (Unmodified Template)",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        }
+      ]
+    },
+    {
+      "name": "Counterparty",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        }
+      ]
+    },
+    {
+      "name": "Non-Standard Nda",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        }
+      ]
+    },
+    {
+      "name": "Ndas",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9.3 Third-party and vendor compliance"
+        }
+      ]
+    },
+    {
+      "name": "Legal'S Contract Repository",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "2.3 Standard terms and approval"
+        }
+      ]
+    },
+    {
+      "name": "Intellectual Property",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3. Intellectual Property (IP)"
+        }
+      ]
+    },
+    {
+      "name": "Contractors And Agencies",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3. Intellectual Property (IP)"
+        }
+      ]
+    },
+    {
+      "name": "Open-Source Software",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        }
+      ]
+    },
+    {
+      "name": "Open-Source Software Standard",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        }
+      ]
+    },
+    {
+      "name": "Incoming Open-Source Components",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        }
+      ]
+    },
+    {
+      "name": "Nexusflow",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        }
+      ]
+    },
+    {
+      "name": "Copyleft/Reciprocal Licenses",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        }
+      ]
+    },
+    {
+      "name": "Legal Review",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Employees",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.4 Rest, breaks, and disconnection"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.5 Substance, safety, and workplace conduct"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "4. Confidential Information"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "9. Encryption"
+        }
+      ]
+    },
+    {
+      "name": "External Open-Source Projects",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "3.3 Open-source software"
+        }
+      ]
+    },
+    {
+      "name": "Data Classification",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "4. Confidential Information"
+        },
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": "Data Classification"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "2. Data Classification"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "3. Customer Data Handling"
+        }
+      ]
+    },
+    {
+      "name": "Technical Controls",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "4. Confidential Information"
+        }
+      ]
+    },
+    {
+      "name": "Duration",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "4.4 Duration"
+        }
+      ]
+    },
+    {
+      "name": "Confidentiality Obligations",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "4.4 Duration"
+        }
+      ]
+    },
+    {
+      "name": "Code Of Ethics",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "6. Code of Ethics"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Core Values",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "6. Code of Ethics"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "1. Purpose"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11. Code of Conduct"
+        }
+      ]
+    },
+    {
+      "name": "Code Of Business Conduct & Ethics",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "6. Code of Ethics"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11. Code of Conduct"
+        }
+      ]
+    },
+    {
+      "name": "Conflicts Of Interest",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Manager Or Legal",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Gifts & Hospitality",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Gifts, Entertainment, Or Hospitality",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Anti-Bribery & Corruption",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Bribes, Kickbacks, Facilitation Payments",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Fair Dealing & Competition",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Competition/Antitrust Law",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Retaliation",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "6.3 Raising concerns and non-retaliation"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        }
+      ]
+    },
+    {
+      "name": "Reporting",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "6.3 Raising concerns and non-retaliation"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        }
+      ]
+    },
+    {
+      "name": "Lawfulness",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.2 Privacy principles"
+        }
+      ]
+    },
+    {
+      "name": "Purpose Limitation & Data Minimization",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.2 Privacy principles"
+        }
+      ]
+    },
+    {
+      "name": "Personal Data",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.2 Privacy principles"
+        }
+      ]
+    },
+    {
+      "name": "Data Subject Rights",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.3 Data subject rights"
+        }
+      ]
+    },
+    {
+      "name": "Controller Requests",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.3 Data subject rights"
+        }
+      ]
+    },
+    {
+      "name": "Processor Requests",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.3 Data subject rights"
+        }
+      ]
+    },
+    {
+      "name": "Customer",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.3 Data subject rights"
+        }
+      ]
+    },
+    {
+      "name": "Personal Data Breach",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.5 Personal data breach response"
+        }
+      ]
+    },
+    {
+      "name": "Legal And Security Co-Own",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.5 Personal data breach response"
+        }
+      ]
+    },
+    {
+      "name": "Privacy Incident Response",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "7.5 Personal data breach response"
+        }
+      ]
+    },
+    {
+      "name": "Retention Schedule",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "8. Record Retention"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Retention Period",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "8. Record Retention"
+        }
+      ]
+    },
+    {
+      "name": "Retention Categories",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "8.2 Representative retention categories"
+        }
+      ]
+    },
+    {
+      "name": "Record Types",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "8.2 Representative retention categories"
+        }
+      ]
+    },
+    {
+      "name": "Legal Hold",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "8.3 Legal holds"
+        },
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Normal Disposal",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "8.3 Legal holds"
+        }
+      ]
+    },
+    {
+      "name": "Compliance Program",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9. Compliance Program"
+        }
+      ]
+    },
+    {
+      "name": "Executive Accountability",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9. Compliance Program"
+        }
+      ]
+    },
+    {
+      "name": "Leadership",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9. Compliance Program"
+        }
+      ]
+    },
+    {
+      "name": "Vendor",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9.3 Third-party and vendor compliance"
+        }
+      ]
+    },
+    {
+      "name": "Legal And Security",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "9.3 Third-party and vendor compliance"
+        }
+      ]
+    },
+    {
+      "name": "Regulatory Compliance",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10. Regulatory Compliance"
+        }
+      ]
+    },
+    {
+      "name": "Security And Trust Certifications",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10. Regulatory Compliance"
+        }
+      ]
+    },
+    {
+      "name": "Eu/Uk Gdpr",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.2 Data protection regulations"
+        }
+      ]
+    },
+    {
+      "name": "Us State Privacy Laws",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.2 Data protection regulations"
+        }
+      ]
+    },
+    {
+      "name": "Canada'S Pipeda",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.2 Data protection regulations"
+        }
+      ]
+    },
+    {
+      "name": "Singapore'S Pdpa",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.2 Data protection regulations"
+        }
+      ]
+    },
+    {
+      "name": "Processor/Business Associate",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.3 Industry-specific obligations"
+        }
+      ]
+    },
+    {
+      "name": "Hipaa-Aligned Terms",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.3 Industry-specific obligations"
+        }
+      ]
+    },
+    {
+      "name": "Responsible Ai",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.5 Responsible AI"
+        }
+      ]
+    },
+    {
+      "name": "Data & Ai Standard",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.5 Responsible AI"
+        }
+      ]
+    },
+    {
+      "name": "Ai-Generated Output",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "10.5 Responsible AI"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "7. Use of AI Tools"
+        }
+      ]
+    },
+    {
+      "name": "Work",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "License",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Document",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Classification",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": "11. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Counterparty Paper",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Authorized Signatory",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Deal Size And Discount",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Personal Data Exposure Assessment",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Dpo",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Data Protection Requirements",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Any Action Or Decision",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Home-Office Security And Device Requirements",
+      "sources": [
+        {
+          "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+          "department": "legal",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Company-Wide Policy Of Record",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Nexus Technologies — HR Policy Manual"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Technologies, Inc.",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Nexus Technologies — HR Policy Manual"
+        }
+      ]
+    },
+    {
+      "name": "Executive Leadership Team (Elt)",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Nexus Technologies — HR Policy Manual"
+        }
+      ]
+    },
+    {
+      "name": "People & Culture / Chro",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Nexus Technologies — HR Policy Manual"
+        }
+      ]
+    },
+    {
+      "name": "Workday",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Nexus Technologies — HR Policy Manual"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        }
+      ]
+    },
+    {
+      "name": "Regional / Local Addenda",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Related documents"
+        }
+      ]
+    },
+    {
+      "name": "This Manual",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "Related documents"
+        }
+      ]
+    },
+    {
+      "name": "Regional Addenda",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "1. Purpose"
+        }
+      ]
+    },
+    {
+      "name": "All Employees",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "2. Scope"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "12. Security Responsibilities"
+        }
+      ]
+    },
+    {
+      "name": "Full-Time And Part-Time Employees",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "2. Scope"
+        }
+      ]
+    },
+    {
+      "name": "Fixed-Term / Contract Employees",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "2. Scope"
+        }
+      ]
+    },
+    {
+      "name": "Interns And Apprentices",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "2. Scope"
+        }
+      ]
+    },
+    {
+      "name": "Independent Contractors / Agencies / Vendors",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "2. Scope"
+        }
+      ]
+    },
+    {
+      "name": "Regional Addendum",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        }
+      ]
+    },
+    {
+      "name": "Local Employment Law",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Category",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "3. Employee Categories"
+        }
+      ]
+    },
+    {
+      "name": "Definition",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "3. Employee Categories"
+        }
+      ]
+    },
+    {
+      "name": "Typical Eligibility",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "3. Employee Categories"
+        }
+      ]
+    },
+    {
+      "name": "Standard Hours",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4. Working Hours"
+        }
+      ]
+    },
+    {
+      "name": "Core Collaboration Days",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Wednesday",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        }
+      ]
+    },
+    {
+      "name": "Exceptions, Fully Remote Roles, And Location-Based Variations",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        }
+      ]
+    },
+    {
+      "name": "Roles Eligible For Overtime Under Local Law",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        }
+      ]
+    },
+    {
+      "name": "Reporting Manager",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        }
+      ]
+    },
+    {
+      "name": "Overtime",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.2 Anchor days and in-office expectations"
+        }
+      ]
+    },
+    {
+      "name": "Right To Disconnect",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "4.4 Rest, breaks, and disconnection"
+        }
+      ]
+    },
+    {
+      "name": "Annual Leave",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "5. Annual Leave"
+        },
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "6. Sick Leave"
+        }
+      ]
+    },
+    {
+      "name": "Part-Time Employees",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "5. Annual Leave"
+        }
+      ]
+    },
+    {
+      "name": "Paid Sick Leave",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "6. Sick Leave"
+        }
+      ]
+    },
+    {
+      "name": "Home-Working Arrangements",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "6.3 Working while unwell / remote sick days"
+        }
+      ]
+    },
+    {
+      "name": "Continuity And Return",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "7.2 Continuity and return"
+        }
+      ]
+    },
+    {
+      "name": "Job Protection",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "7.2 Continuity and return"
+        }
+      ]
+    },
+    {
+      "name": "Reviews And Promotion",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "7.2 Continuity and return"
+        }
+      ]
+    },
+    {
+      "name": "Floating Personal Days",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "8.3 Floating / flexible holidays"
+        }
+      ]
+    },
+    {
+      "name": "Religious Occasion",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "8.3 Floating / flexible holidays"
+        }
+      ]
+    },
+    {
+      "name": "Performance Review",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9. Performance Reviews"
+        }
+      ]
+    },
+    {
+      "name": "L1–L7 Leveling Framework",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9. Performance Reviews"
+        }
+      ]
+    },
+    {
+      "name": "Quarterly Business Review",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.2 Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Annual Review",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.2 Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Mid-Year Check-In",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.2 Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Ongoing 1:1S",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.2 Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Rating",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.2 Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Compensation",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.2 Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Underperformance",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.4 Feedback principles"
+        }
+      ]
+    },
+    {
+      "name": "Performance Improvement Plan (Pip)",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.4 Feedback principles"
+        }
+      ]
+    },
+    {
+      "name": "Remote Employees",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "9.4 Feedback principles"
+        }
+      ]
+    },
+    {
+      "name": "Promotion Cycle",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "10.2 Process"
+        }
+      ]
+    },
+    {
+      "name": "Fiscal Year",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "10.2 Process"
+        }
+      ]
+    },
+    {
+      "name": "Fairness Safeguards",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "10.4 Fairness safeguards"
+        }
+      ]
+    },
+    {
+      "name": "Calibration Panels",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "10.4 Fairness safeguards"
+        }
+      ]
+    },
+    {
+      "name": "Conduct At Nexus",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11. Code of Conduct"
+        }
+      ]
+    },
+    {
+      "name": "Personal, Financial, Or Family Interest",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Security Requirements",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Data Protection & Privacy",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Privacy Standards",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Company Assets",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Company Systems, Devices, And Funds",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Use Company Systems, Devices, And Funds Responsibly And Primarily For Legitimate Business Purposes",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Confidentiality",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11.3 Confidentiality and remote work"
+        }
+      ]
+    },
+    {
+      "name": "Infosec Standards",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "11.3 Confidentiality and remote work"
+        }
+      ]
+    },
+    {
+      "name": "Inclusivity",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "12.4 Inclusivity"
+        }
+      ]
+    },
+    {
+      "name": "Dress Code",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "12.4 Inclusivity"
+        }
+      ]
+    },
+    {
+      "name": "Inclusion",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        }
+      ]
+    },
+    {
+      "name": "Confidential Reporting Channel",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        }
+      ]
+    },
+    {
+      "name": "None",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        }
+      ]
+    },
+    {
+      "name": "Investigation",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.3 Diversity, equity & inclusion"
+        }
+      ]
+    },
+    {
+      "name": "Substance",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.5 Substance, safety, and workplace conduct"
+        }
+      ]
+    },
+    {
+      "name": "Workplace Conduct",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "13.5 Substance, safety, and workplace conduct"
+        }
+      ]
+    },
+    {
+      "name": "Office And Legal Entity",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "14. Employee Benefits"
+        }
+      ]
+    },
+    {
+      "name": "Benefits",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "14. Employee Benefits"
+        }
+      ]
+    },
+    {
+      "name": "Equity",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "14.2 Financial"
+        }
+      ]
+    },
+    {
+      "name": "Company Equity Plan",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "14.2 Financial"
+        }
+      ]
+    },
+    {
+      "name": "Eligibility",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "14.4 Eligibility"
+        }
+      ]
+    },
+    {
+      "name": "Full-Time Employees",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "14.4 Eligibility"
+        }
+      ]
+    },
+    {
+      "name": "Development Plan",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "15. Training & Development"
+        }
+      ]
+    },
+    {
+      "name": "Learning Budget",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "15.2 Types of learning"
+        }
+      ]
+    },
+    {
+      "name": "Equal Access",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "15.4 Equal access"
+        }
+      ]
+    },
+    {
+      "name": "Training",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "15.4 Equal access"
+        }
+      ]
+    },
+    {
+      "name": "Onboarding",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16. Onboarding"
+        }
+      ]
+    },
+    {
+      "name": "It & Corporate Systems",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16. Onboarding"
+        }
+      ]
+    },
+    {
+      "name": "Onboarding Buddy",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16.2 First week"
+        }
+      ]
+    },
+    {
+      "name": "New Joiner",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16.2 First week"
+        }
+      ]
+    },
+    {
+      "name": "Remote Onboarding",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16.4 Remote onboarding"
+        }
+      ]
+    },
+    {
+      "name": "Same Milestones",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "16.4 Remote onboarding"
+        }
+      ]
+    },
+    {
+      "name": "It And Security",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "17.3 Access, assets, and security"
+        }
+      ]
+    },
+    {
+      "name": "Access, Assets, And Security",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "17.3 Access, assets, and security"
+        }
+      ]
+    },
+    {
+      "name": "Company Equipment",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "17.3 Access, assets, and security"
+        }
+      ]
+    },
+    {
+      "name": "Fully Remote Roles",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": "18. Frequently Asked Questions (FAQ)"
+        }
+      ]
+    },
+    {
+      "name": "Parental Leave",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Company Baseline",
+      "sources": [
+        {
+          "source": "NEXUS_HR_POLICY_MANUAL.md",
+          "department": "hr",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Nexons",
+      "sources": [
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Tier 1 — Public",
+      "sources": [
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": "Data Classification"
+        }
+      ]
+    },
+    {
+      "name": "Tier 2 — Internal",
+      "sources": [
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": "Data Classification"
+        }
+      ]
+    },
+    {
+      "name": "Tier 3 — Confidential",
+      "sources": [
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": "Data Classification"
+        },
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "13. FAQ"
+        }
+      ]
+    },
+    {
+      "name": "Tier 4 — Restricted",
+      "sources": [
+        {
+          "source": "GLOSSARY .md",
+          "department": "shared",
+          "section": "Data Classification"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Character Requirements",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        }
+      ]
+    },
+    {
+      "name": "It Policy §3.1",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        }
+      ]
+    },
+    {
+      "name": "Mfa",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        }
+      ]
+    },
+    {
+      "name": "Nexussecure Vpn",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "IT Questions"
+        }
+      ]
+    },
+    {
+      "name": "Information Security Policy",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "It Policy §7",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        }
+      ]
+    },
+    {
+      "name": "It Policy",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "5. Employee Responsibilities"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "7. Use of AI Tools"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "1. Purpose & Scope"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Devices",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        }
+      ]
+    },
+    {
+      "name": "It Security",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "Ai Tools",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Security Questions"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "7. Use of AI Tools"
+        }
+      ]
+    },
+    {
+      "name": "Itemized Receipts",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        },
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "2. Expense Reimbursement"
+        }
+      ]
+    },
+    {
+      "name": "Expense Over $25 Usd",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        }
+      ]
+    },
+    {
+      "name": "Expenses",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        }
+      ]
+    },
+    {
+      "name": "Expenses Over 90 Days Old",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        }
+      ]
+    },
+    {
+      "name": "Approved Expense Reports",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        }
+      ]
+    },
+    {
+      "name": "5-7 Business Days",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "Finance Questions"
+        }
+      ]
+    },
+    {
+      "name": "Hybrid Employees",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Official External Business Correspondence",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        }
+      ]
+    },
+    {
+      "name": "Human Reviewer",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        }
+      ]
+    },
+    {
+      "name": "General Company Policies §7",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        }
+      ]
+    },
+    {
+      "name": "Code, Legal, Financial, Or Customer-Facing Work",
+      "sources": [
+        {
+          "source": "COMPANY_FAQ.md",
+          "department": "shared",
+          "section": "General Policy Questions"
+        }
+      ]
+    },
+    {
+      "name": "Company-Wide",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Nexus Technologies — General Company Policies"
+        }
+      ]
+    },
+    {
+      "name": "All Full-Time, Part-Time, And Contract Employees Globally",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Nexus Technologies — General Company Policies"
+        }
+      ]
+    },
+    {
+      "name": "Direct Manager And Hr",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "1. Remote Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Office Access Procedures",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Hr",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Manager And Hr",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Director",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "Teams' Flexible Remote Day Adjustments",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "2. Hybrid Work Policy"
+        }
+      ]
+    },
+    {
+      "name": "External Communications",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "External communications (press, public statements, social media on behalf of Nexus) require approval per the Approval Hierarchy (Marketing Director → CMO → CEO if material)."
+        }
+      ]
+    },
+    {
+      "name": "Meeting Policy",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "4. Meeting Policy"
+        }
+      ]
+    },
+    {
+      "name": "Security Policy",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "4. Meeting Policy"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "5. Employee Responsibilities"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "7. Use of AI Tools"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Employee Responsibilities",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "5. Employee Responsibilities"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        }
+      ]
+    },
+    {
+      "name": "Hr Policy",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "5. Employee Responsibilities"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "6. Workplace Expectations"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "8. Ethics"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        }
+      ]
+    },
+    {
+      "name": "Finance Policy",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "5. Employee Responsibilities"
+        },
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "8. Ethics"
+        }
+      ]
+    },
+    {
+      "name": "Workplace Expectations",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "6. Workplace Expectations"
+        }
+      ]
+    },
+    {
+      "name": "Nexus Way",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "6. Workplace Expectations"
+        }
+      ]
+    },
+    {
+      "name": "Performance Evaluation Through The Beacon Review",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "6. Workplace Expectations"
+        }
+      ]
+    },
+    {
+      "name": "Anti-Harassment & Non-Discrimination Section",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "6. Workplace Expectations"
+        }
+      ]
+    },
+    {
+      "name": "Human Review",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "7. Use of AI Tools"
+        }
+      ]
+    },
+    {
+      "name": "Approved Tools",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "7. Use of AI Tools"
+        }
+      ]
+    },
+    {
+      "name": "Ethics",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "8. Ethics"
+        }
+      ]
+    },
+    {
+      "name": "Confidential Ethics & Integrity Line",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "8. Ethics"
+        }
+      ]
+    },
+    {
+      "name": "Business Continuity Plan",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Operations",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Nexushr Portal",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Coo",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Business Continuity Committee",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "10. Business Continuity"
+        }
+      ]
+    },
+    {
+      "name": "Communication Guidelines",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        }
+      ]
+    },
+    {
+      "name": "Security Policy (Data Classification)",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        }
+      ]
+    },
+    {
+      "name": "It Policy (Software Approval)",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        }
+      ]
+    },
+    {
+      "name": "Use Of Ai Tools",
+      "sources": [
+        {
+          "source": "General_Company_Policies.md",
+          "department": "finance",
+          "section": "Policy Cross-Reference Index"
+        }
+      ]
+    },
+    {
+      "name": "Finance & Expense Policy",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "Nexus Technologies, Inc. — Finance & Expense Policy"
+        }
+      ]
+    },
+    {
+      "name": "All Full-Time Employees, Contractors, And Approved Contingent Workers",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "Nexus Technologies, Inc. — Finance & Expense Policy"
+        }
+      ]
+    },
+    {
+      "name": "Purpose & Scope",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "1. Purpose & Scope"
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "1. Purpose & Scope"
+        }
+      ]
+    },
+    {
+      "name": "Expense Reporting",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "1. Purpose & Scope"
+        }
+      ]
+    },
+    {
+      "name": "International Travel",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "3.4 Ground Transportation & Meals"
+        }
+      ]
+    },
+    {
+      "name": "Director Approval",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "3.4 Ground Transportation & Meals"
+        }
+      ]
+    },
+    {
+      "name": "Travel To Elevated-Risk Destinations",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "3.4 Ground Transportation & Meals"
+        }
+      ]
+    },
+    {
+      "name": "It & Security (Grc Team)",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "3.4 Ground Transportation & Meals"
+        }
+      ]
+    },
+    {
+      "name": "Lost, Stolen, Or Compromised Cards",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "4.4 Lost, Stolen, or Compromised Cards"
+        }
+      ]
+    },
+    {
+      "name": "Finance & Accounting",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "4.4 Lost, Stolen, or Compromised Cards"
+        }
+      ]
+    },
+    {
+      "name": "It & Security",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "4.4 Lost, Stolen, or Compromised Cards"
+        }
+      ]
+    },
+    {
+      "name": "Departmental Annual Operating Budgets",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "6. Budget Limits"
+        }
+      ]
+    },
+    {
+      "name": "Cfo And The Relevant Department Vp",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "6. Budget Limits"
+        }
+      ]
+    },
+    {
+      "name": "Unbudgeted / Exception Spend",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "6.4 Unbudgeted / Exception Spend"
+        }
+      ]
+    },
+    {
+      "name": "Written Justification And Sign-Off One Level Above",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "6.4 Unbudgeted / Exception Spend"
+        }
+      ]
+    },
+    {
+      "name": "Contract Value",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "8. Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Department Director → Legal Review",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "8. Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Procurement Lead",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "8. Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Department Vp",
+      "sources": [
+        {
+          "source": "nexus-technologies-finance-expense-policy.md",
+          "department": "finance",
+          "section": "8. Procurement Approval"
+        }
+      ]
+    },
+    {
+      "name": "Policy",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Handling And Storage Requirements",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "2. Data Classification"
+        }
+      ]
+    },
+    {
+      "name": "Document Creation",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "3. Customer Data Handling"
+        }
+      ]
+    },
+    {
+      "name": "Customer Data",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        },
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "13. FAQ"
+        }
+      ]
+    },
+    {
+      "name": "Nexus-Approved Cloud Environments",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Access To Customer Data",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Quarterly Review By Director And It Security",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Personal Devices",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Unreleased Product Plans",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "4. Confidential Information"
+        }
+      ]
+    },
+    {
+      "name": "Public Spaces",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "4. Confidential Information"
+        }
+      ]
+    },
+    {
+      "name": "Tier 3/4 Information",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "4. Confidential Information"
+        }
+      ]
+    },
+    {
+      "name": "Role-Based Access Control (Rbac)",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "Access Reviews",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "It Security And Relevant Directors",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "Shared Accounts",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "Production Systems",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "5. Access Control"
+        }
+      ]
+    },
+    {
+      "name": "Encryption",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "9. Encryption"
+        }
+      ]
+    },
+    {
+      "name": "Data At Rest",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "9. Encryption"
+        }
+      ]
+    },
+    {
+      "name": "Data In Transit",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "9. Encryption"
+        }
+      ]
+    },
+    {
+      "name": "Credential/Key Management",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "9. Encryption"
+        }
+      ]
+    },
+    {
+      "name": "Vpn Usage",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "10. Remote Access"
+        }
+      ]
+    },
+    {
+      "name": "It Policy, Section 5",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "10. Remote Access"
+        }
+      ]
+    },
+    {
+      "name": "It Security And Legal & Compliance",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "10. Remote Access"
+        }
+      ]
+    },
+    {
+      "name": "Incident",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "11.3 Escalation Path"
+        }
+      ]
+    },
+    {
+      "name": "Post-Incident Review",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "11.3 Escalation Path"
+        }
+      ]
+    },
+    {
+      "name": "Security Responsibilities",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "12. Security Responsibilities"
+        }
+      ]
+    },
+    {
+      "name": "Classification Tier",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "13. FAQ"
+        }
+      ]
+    },
+    {
+      "name": "Nexus-Approved Systems",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": "13. FAQ"
+        }
+      ]
+    },
+    {
+      "name": "Reporting Channel",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "It Request Channel",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Security Incident",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Nexusconnect #Security-Incident",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "name": "Confidential (Tier 3) Data",
+      "sources": [
+        {
+          "source": "Nexus_Technologies_Information_Security_Policy.md",
+          "department": "security",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "It Security Review",
+      "relation": "applies to",
+      "to": "All Nexus Employees, Contractors, And Temporary Staff",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "Nexus Technologies — Information Technology (IT) Policy"
+    },
+    {
+      "from": "It Resource Management",
+      "relation": "applies to",
+      "to": "Office-Based Employees",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "1. Purpose & Scope"
+    },
+    {
+      "from": "Company Profile",
+      "relation": "defines",
+      "to": "Working Model",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "1. Purpose & Scope"
+    },
+    {
+      "from": "Nexus Device Management",
+      "relation": "requires",
+      "to": "Personal Devices Used For Company Work",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "2. Company Devices"
+    },
+    {
+      "from": "It & Internal Systems",
+      "relation": "must be reported to",
+      "to": "Lost Or Stolen Devices",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "2. Company Devices"
+    },
+    {
+      "from": "Manager",
+      "relation": "must be approved by",
+      "to": "Additional Hardware (External Monitors, Docking Stations) Via Nexusboard It Request Queue",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "2. Company Devices"
+    },
+    {
+      "from": "Hrbp And It",
+      "relation": "coordinated with",
+      "to": "All Company Devices",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "2. Company Devices"
+    },
+    {
+      "from": "Software Installation",
+      "relation": "requires",
+      "to": "It & Internal Systems",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "6. Software Installation"
+    },
+    {
+      "from": "Nexusboard Software Request Portal",
+      "relation": "refers to",
+      "to": "Pre-Approved Software Catalog",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "6. Software Installation"
+    },
+    {
+      "from": "Ai Tools Usage",
+      "relation": "is governed by",
+      "to": "Nexus-Approved Ai Tools List",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "7. AI Tools Usage"
+    },
+    {
+      "from": "Confidential Information",
+      "relation": "must be protected from",
+      "to": "Public/Consumer-Facing Ai Tools",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "7. AI Tools Usage"
+    },
+    {
+      "from": "Email Security",
+      "relation": "applies to",
+      "to": "Remote Work",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "8. Email Security"
+    },
+    {
+      "from": "Internet Usage",
+      "relation": "applies to",
+      "to": "Core Hours",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "9. Internet Usage"
+    },
+    {
+      "from": "Cloud Storage",
+      "relation": "refers to",
+      "to": "Nexusdocs",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "10. Cloud Storage"
+    },
+    {
+      "from": "Cloud Storage",
+      "relation": "refers to",
+      "to": "Nexusboard",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "10. Cloud Storage"
+    },
+    {
+      "from": "Cloud Storage",
+      "relation": "refers to",
+      "to": "Nexus Cloud Infrastructure",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "10. Cloud Storage"
+    },
+    {
+      "from": "Device Management",
+      "relation": "requires",
+      "to": "Nexus Device Management",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "11. Device Management"
+    },
+    {
+      "from": "Backup Policy",
+      "relation": "applies to",
+      "to": "Employee Devices",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": "12. Backup Policy"
+    },
+    {
+      "from": "Remote Work",
+      "relation": "requires",
+      "to": "Vpn",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": ""
+    },
+    {
+      "from": "Phishing Simulation Test",
+      "relation": "may require",
+      "to": "Security Refresher Module",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": ""
+    },
+    {
+      "from": "It Security Review",
+      "relation": "applies to",
+      "to": "Uncommon Or Data-Access-Heavy Tools",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": ""
+    },
+    {
+      "from": "Nexusboard Software Request Portal",
+      "relation": "is pre-approved for",
+      "to": "Most Common Productivity And Developer Tools",
+      "source": "Nexus_Technologies_IT_Policy.md",
+      "department": "it",
+      "section": ""
+    },
+    {
+      "from": "Cto",
+      "relation": "led by",
+      "to": "Engineering & It",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "6. Departments"
+    },
+    {
+      "from": "Vp Of Engineering",
+      "relation": "refers to",
+      "to": "Engineering Director",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "7. Employee Roles (by Department)"
+    },
+    {
+      "from": "Vp Of Product",
+      "relation": "refers to",
+      "to": "Group Product Manager",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "7. Employee Roles (by Department)"
+    },
+    {
+      "from": "Leveling Framework",
+      "relation": "applies to",
+      "to": "Ic Track",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "Legal & Compliance"
+    },
+    {
+      "from": "Leveling Framework",
+      "relation": "applies to",
+      "to": "Management Track",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "Legal & Compliance"
+    },
+    {
+      "from": "Elt",
+      "relation": "sits above",
+      "to": "L7",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "Legal & Compliance"
+    },
+    {
+      "from": "Squad",
+      "relation": "is used interchangeably with",
+      "to": "Pod",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "7.2 Squads, Pods, and DRIs"
+    },
+    {
+      "from": "Ceo",
+      "relation": "reports to",
+      "to": "Board Of Directors",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "8. Reporting Hierarchy"
+    },
+    {
+      "from": "Approval Hierarchy",
+      "relation": "requires",
+      "to": "General Principles",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9. Approval Hierarchy"
+    },
+    {
+      "from": "Hiring Requisition",
+      "relation": "applies to",
+      "to": "Hr Director",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9. Approval Hierarchy"
+    },
+    {
+      "from": "Promotion",
+      "relation": "refers to",
+      "to": "Director/Vp Sign-Off",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9. Approval Hierarchy"
+    },
+    {
+      "from": "Purchase Requisition",
+      "relation": "refers to",
+      "to": "Department Director/Vp",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.3 Purchase, Expense & Procurement Approval"
+    },
+    {
+      "from": "New Vendor/Contract",
+      "relation": "must be approved by",
+      "to": "Cfo + Relevant C-Suite Sponsor",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.3 Purchase, Expense & Procurement Approval"
+    },
+    {
+      "from": "Expense Reimbursement",
+      "relation": "requires",
+      "to": "Finance",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.3 Purchase, Expense & Procurement Approval"
+    },
+    {
+      "from": "Company-Wide Policy (Hr, Legal, Security, It, Finance Manuals)",
+      "relation": "is governed by",
+      "to": "Executive Leadership Team",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.3 Purchase, Expense & Procurement Approval"
+    },
+    {
+      "from": "Commercial Contract Discount",
+      "relation": "applies to",
+      "to": "Above 30% Discount Or Non-Standard Terms",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+    },
+    {
+      "from": "Pto / Leave Request",
+      "relation": "refers to",
+      "to": "Direct Manager",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+    },
+    {
+      "from": "Product Feature Launch",
+      "relation": "requires",
+      "to": "Vp Of Product → Vp Of Sales + Cfo",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+    },
+    {
+      "from": "Enterprise Commercial Deal",
+      "relation": "requires",
+      "to": "Cro + Ceo",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "9.5 Commercial (Customer) Contract & Other Approvals"
+    },
+    {
+      "from": "Hybrid-Flexible Working Model",
+      "relation": "applies to",
+      "to": "Remote-First Roles",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "10. Office Locations"
+    },
+    {
+      "from": "Company Terminology",
+      "relation": "refers to",
+      "to": "Nexusconnect",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "12. Internal Communication Tools"
+    },
+    {
+      "from": "Company Terminology",
+      "relation": "refers to",
+      "to": "Nexusmail",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "12. Internal Communication Tools"
+    },
+    {
+      "from": "Company Terminology",
+      "relation": "refers to",
+      "to": "Nexusboard",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "12. Internal Communication Tools"
+    },
+    {
+      "from": "Company Terminology",
+      "relation": "refers to",
+      "to": "Nexusdocs",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "12. Internal Communication Tools"
+    },
+    {
+      "from": "Company Terminology",
+      "relation": "refers to",
+      "to": "Nexusmeet",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": "12. Internal Communication Tools"
+    },
+    {
+      "from": "Nexus Sync",
+      "relation": "refers to",
+      "to": "Remote-First Employees",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": ""
+    },
+    {
+      "from": "Pod",
+      "relation": "is governed by",
+      "to": "Squad",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": ""
+    },
+    {
+      "from": "Nexus",
+      "relation": "refers to",
+      "to": "Ciso",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": ""
+    },
+    {
+      "from": "Elt",
+      "relation": "must be approved by",
+      "to": "Dri",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": ""
+    },
+    {
+      "from": "Pod",
+      "relation": "applies to",
+      "to": "Squad",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": ""
+    },
+    {
+      "from": "Future Documents",
+      "relation": "refer to",
+      "to": "This Profile",
+      "source": "company_profile.md",
+      "department": "company",
+      "section": ""
+    },
+    {
+      "from": "Password Policy",
+      "relation": "refers to",
+      "to": "Data Protection",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "Nexus Technologies — Legal & Compliance Manual"
+    },
+    {
+      "from": "Company Profile",
+      "relation": "refers to",
+      "to": "Legal & Compliance Manual",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Ceo",
+      "relation": "reports to",
+      "to": "General Counsel",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Company Profile",
+      "relation": "refers to",
+      "to": "Elt",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "Related documents"
+    },
+    {
+      "from": "Hr Policy Manual",
+      "relation": "governed by",
+      "to": "Code Of Conduct",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "Related documents"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "applies to",
+      "to": "Home-Office Security",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "Related documents"
+    },
+    {
+      "from": "Security (Infosec) Standards",
+      "relation": "owns",
+      "to": "Ciso",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "Related documents"
+    },
+    {
+      "from": "Legal",
+      "relation": "is governed by",
+      "to": "Security",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "Boundary note — Legal vs. Security"
+    },
+    {
+      "from": "All Employees, Interns, And Fixed-Term Staff",
+      "relation": "applies to",
+      "to": "Contractors, Vendors, And Partners",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "1.2 Scope"
+    },
+    {
+      "from": "Nda",
+      "relation": "requires",
+      "to": "Approved Nda",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "2. Non-Disclosure Agreements (NDAs)"
+    },
+    {
+      "from": "Nda Template",
+      "relation": "is owned by",
+      "to": "Legal & Compliance",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "2.3 Standard terms and approval"
+    },
+    {
+      "from": "Deal Or Engagement Owner",
+      "relation": "may approve and execute",
+      "to": "Standard Nda (Unmodified Template)",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "2.3 Standard terms and approval"
+    },
+    {
+      "from": "Counterparty",
+      "relation": "must be reviewed and approved by",
+      "to": "Non-Standard Nda",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "2.3 Standard terms and approval"
+    },
+    {
+      "from": "Ndas",
+      "relation": "are stored in",
+      "to": "Legal'S Contract Repository",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "2.3 Standard terms and approval"
+    },
+    {
+      "from": "Intellectual Property",
+      "relation": "is owned by",
+      "to": "Nexus",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "3. Intellectual Property (IP)"
+    },
+    {
+      "from": "Contractors And Agencies",
+      "relation": "assigns",
+      "to": "Nexus",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "3. Intellectual Property (IP)"
+    },
+    {
+      "from": "Open-Source Software",
+      "relation": "follows",
+      "to": "Open-Source Software Standard",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "3.3 Open-source software"
+    },
+    {
+      "from": "Incoming Open-Source Components",
+      "relation": "must be license-cleared",
+      "to": "Nexusflow",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "3.3 Open-source software"
+    },
+    {
+      "from": "Copyleft/Reciprocal Licenses",
+      "relation": "require",
+      "to": "Legal Review",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "3.3 Open-source software"
+    },
+    {
+      "from": "Employees",
+      "relation": "may not contribute",
+      "to": "External Open-Source Projects",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "3.3 Open-source software"
+    },
+    {
+      "from": "Data Classification",
+      "relation": "refers to",
+      "to": "Technical Controls",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "4. Confidential Information"
+    },
+    {
+      "from": "Duration",
+      "relation": "continues",
+      "to": "Confidentiality Obligations",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "4.4 Duration"
+    },
+    {
+      "from": "Code Of Ethics",
+      "relation": "is governed by",
+      "to": "Core Values",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "6. Code of Ethics"
+    },
+    {
+      "from": "Code Of Business Conduct & Ethics",
+      "relation": "refers to",
+      "to": "Code Of Ethics",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "6. Code of Ethics"
+    },
+    {
+      "from": "Conflicts Of Interest",
+      "relation": "disclose",
+      "to": "Manager Or Legal",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Gifts & Hospitality",
+      "relation": "give or accept",
+      "to": "Gifts, Entertainment, Or Hospitality",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Anti-Bribery & Corruption",
+      "relation": "zero tolerance for",
+      "to": "Bribes, Kickbacks, Facilitation Payments",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Fair Dealing & Competition",
+      "relation": "compete honestly",
+      "to": "Competition/Antitrust Law",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Retaliation",
+      "relation": "is prohibited",
+      "to": "Reporting",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "6.3 Raising concerns and non-retaliation"
+    },
+    {
+      "from": "Lawfulness",
+      "relation": "applies to",
+      "to": "Purpose Limitation & Data Minimization",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "7.2 Privacy principles"
+    },
+    {
+      "from": "Security",
+      "relation": "protects",
+      "to": "Personal Data",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "7.2 Privacy principles"
+    },
+    {
+      "from": "Data Subject Rights",
+      "relation": "refers to",
+      "to": "Controller Requests",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "7.3 Data subject rights"
+    },
+    {
+      "from": "Processor Requests",
+      "relation": "forwarded to",
+      "to": "Customer",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "7.3 Data subject rights"
+    },
+    {
+      "from": "Personal Data Breach",
+      "relation": "must be reported to",
+      "to": "Security",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "7.5 Personal data breach response"
+    },
+    {
+      "from": "Legal And Security Co-Own",
+      "relation": "refers to",
+      "to": "Privacy Incident Response",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "7.5 Personal data breach response"
+    },
+    {
+      "from": "Retention Schedule",
+      "relation": "applies to",
+      "to": "Retention Period",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "8. Record Retention"
+    },
+    {
+      "from": "Retention Categories",
+      "relation": "applies to",
+      "to": "Record Types",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "8.2 Representative retention categories"
+    },
+    {
+      "from": "Legal Hold",
+      "relation": "suspends",
+      "to": "Normal Disposal",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "8.3 Legal holds"
+    },
+    {
+      "from": "Compliance Program",
+      "relation": "is governed by",
+      "to": "Legal & Compliance",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "9. Compliance Program"
+    },
+    {
+      "from": "Executive Accountability",
+      "relation": "reports to",
+      "to": "Leadership",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "9. Compliance Program"
+    },
+    {
+      "from": "Vendor",
+      "relation": "signs",
+      "to": "Ndas",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "9.3 Third-party and vendor compliance"
+    },
+    {
+      "from": "Vendor",
+      "relation": "is reviewed by",
+      "to": "Legal And Security",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "9.3 Third-party and vendor compliance"
+    },
+    {
+      "from": "Regulatory Compliance",
+      "relation": "applies to",
+      "to": "Security And Trust Certifications",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10. Regulatory Compliance"
+    },
+    {
+      "from": "Data Protection",
+      "relation": "refers to",
+      "to": "Eu/Uk Gdpr",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.2 Data protection regulations"
+    },
+    {
+      "from": "Data Protection",
+      "relation": "refers to",
+      "to": "Us State Privacy Laws",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.2 Data protection regulations"
+    },
+    {
+      "from": "Data Protection",
+      "relation": "refers to",
+      "to": "Canada'S Pipeda",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.2 Data protection regulations"
+    },
+    {
+      "from": "Data Protection",
+      "relation": "refers to",
+      "to": "Singapore'S Pdpa",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.2 Data protection regulations"
+    },
+    {
+      "from": "Processor/Business Associate",
+      "relation": "is governed by",
+      "to": "Hipaa-Aligned Terms",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.3 Industry-specific obligations"
+    },
+    {
+      "from": "Responsible Ai",
+      "relation": "refers to",
+      "to": "Data & Ai Standard",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.5 Responsible AI"
+    },
+    {
+      "from": "Responsible Ai",
+      "relation": "applies to",
+      "to": "Ai-Generated Output",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "10.5 Responsible AI"
+    },
+    {
+      "from": "Nda",
+      "relation": "must be approved by",
+      "to": "Legal",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "11. Frequently Asked Questions (FAQ)"
+    },
+    {
+      "from": "Work",
+      "relation": "is owned by",
+      "to": "Nexus",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "11. Frequently Asked Questions (FAQ)"
+    },
+    {
+      "from": "License",
+      "relation": "needs review of",
+      "to": "Legal",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "11. Frequently Asked Questions (FAQ)"
+    },
+    {
+      "from": "Document",
+      "relation": "is classified as",
+      "to": "Classification",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": "11. Frequently Asked Questions (FAQ)"
+    },
+    {
+      "from": "Legal Review",
+      "relation": "requires",
+      "to": "Counterparty Paper",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Authorized Signatory",
+      "relation": "must be approved by",
+      "to": "Deal Size And Discount",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Security",
+      "relation": "refers to",
+      "to": "Personal Data Exposure Assessment",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Dpo",
+      "relation": "refers to",
+      "to": "Data Protection Requirements",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Retention Schedule",
+      "relation": "refers to",
+      "to": "Legal Hold",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Hr Policy Manual",
+      "relation": "cross-references",
+      "to": "Code Of Ethics",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Legal & Compliance",
+      "relation": "asks about",
+      "to": "Any Action Or Decision",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "applies to",
+      "to": "Home-Office Security And Device Requirements",
+      "source": "NEXUS_LEGAL_COMPLIANCE_MANUAL.md",
+      "department": "legal",
+      "section": ""
+    },
+    {
+      "from": "Company-Wide Policy Of Record",
+      "relation": "applies to",
+      "to": "Nexus Technologies, Inc.",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "Nexus Technologies — HR Policy Manual"
+    },
+    {
+      "from": "Executive Leadership Team (Elt)",
+      "relation": "approved by",
+      "to": "Company-Wide Policy Of Record",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "Nexus Technologies — HR Policy Manual"
+    },
+    {
+      "from": "People & Culture / Chro",
+      "relation": "owns",
+      "to": "Hr Policy Manual",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "Nexus Technologies — HR Policy Manual"
+    },
+    {
+      "from": "Workday",
+      "relation": "system of record",
+      "to": "Hr Policy Manual",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "Nexus Technologies — HR Policy Manual"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "refers to",
+      "to": "Company Profile",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "Related documents"
+    },
+    {
+      "from": "Regional / Local Addenda",
+      "relation": "governs",
+      "to": "This Manual",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "Related documents"
+    },
+    {
+      "from": "Core Values",
+      "relation": "refers to",
+      "to": "Regional Addenda",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "1. Purpose"
+    },
+    {
+      "from": "All Employees",
+      "relation": "applies to",
+      "to": "Full-Time And Part-Time Employees",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "2. Scope"
+    },
+    {
+      "from": "All Employees",
+      "relation": "applies to",
+      "to": "Fixed-Term / Contract Employees",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "2. Scope"
+    },
+    {
+      "from": "All Employees",
+      "relation": "applies to",
+      "to": "Interns And Apprentices",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "2. Scope"
+    },
+    {
+      "from": "All Employees",
+      "relation": "applies to",
+      "to": "Independent Contractors / Agencies / Vendors",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "2. Scope"
+    },
+    {
+      "from": "Regional Addendum",
+      "relation": "applies to",
+      "to": "Local Employment Law",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Category",
+      "relation": "refers to",
+      "to": "Definition",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "3. Employee Categories"
+    },
+    {
+      "from": "Category",
+      "relation": "applies to",
+      "to": "Typical Eligibility",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "3. Employee Categories"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "governs",
+      "to": "Standard Hours",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "4. Working Hours"
+    },
+    {
+      "from": "Core Collaboration Days",
+      "relation": "refers to",
+      "to": "Wednesday",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "4.2 Anchor days and in-office expectations"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "governs",
+      "to": "Exceptions, Fully Remote Roles, And Location-Based Variations",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "4.2 Anchor days and in-office expectations"
+    },
+    {
+      "from": "Regional Addendum",
+      "relation": "applies to",
+      "to": "Roles Eligible For Overtime Under Local Law",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "4.2 Anchor days and in-office expectations"
+    },
+    {
+      "from": "Reporting Manager",
+      "relation": "must be approved by",
+      "to": "Overtime",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "4.2 Anchor days and in-office expectations"
+    },
+    {
+      "from": "Right To Disconnect",
+      "relation": "applies to",
+      "to": "Employees",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "4.4 Rest, breaks, and disconnection"
+    },
+    {
+      "from": "Annual Leave",
+      "relation": "applies to",
+      "to": "Part-Time Employees",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "5. Annual Leave"
+    },
+    {
+      "from": "Paid Sick Leave",
+      "relation": "applies to",
+      "to": "Annual Leave",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "6. Sick Leave"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "applies to",
+      "to": "Home-Working Arrangements",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "6.3 Working while unwell / remote sick days"
+    },
+    {
+      "from": "Continuity And Return",
+      "relation": "refers to",
+      "to": "Job Protection",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "7.2 Continuity and return"
+    },
+    {
+      "from": "Continuity And Return",
+      "relation": "applies to",
+      "to": "Reviews And Promotion",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "7.2 Continuity and return"
+    },
+    {
+      "from": "Floating Personal Days",
+      "relation": "applies to",
+      "to": "Religious Occasion",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "8.3 Floating / flexible holidays"
+    },
+    {
+      "from": "Performance Review",
+      "relation": "applies to",
+      "to": "L1–L7 Leveling Framework",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9. Performance Reviews"
+    },
+    {
+      "from": "Performance Review",
+      "relation": "refers to",
+      "to": "Ic Track",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9. Performance Reviews"
+    },
+    {
+      "from": "Performance Review",
+      "relation": "refers to",
+      "to": "Management Track",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9. Performance Reviews"
+    },
+    {
+      "from": "Quarterly Business Review",
+      "relation": "refers to",
+      "to": "Annual Review",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9.2 Cycle"
+    },
+    {
+      "from": "Quarterly Business Review",
+      "relation": "refers to",
+      "to": "Mid-Year Check-In",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9.2 Cycle"
+    },
+    {
+      "from": "Quarterly Business Review",
+      "relation": "refers to",
+      "to": "Ongoing 1:1S",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9.2 Cycle"
+    },
+    {
+      "from": "Rating",
+      "relation": "applies to",
+      "to": "Compensation",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9.2 Cycle"
+    },
+    {
+      "from": "Underperformance",
+      "relation": "requires",
+      "to": "Performance Improvement Plan (Pip)",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9.4 Feedback principles"
+    },
+    {
+      "from": "Remote Employees",
+      "relation": "refers to",
+      "to": "Remote Work Policy",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "9.4 Feedback principles"
+    },
+    {
+      "from": "Promotion Cycle",
+      "relation": "runs",
+      "to": "Fiscal Year",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "10.2 Process"
+    },
+    {
+      "from": "Fairness Safeguards",
+      "relation": "refers to",
+      "to": "Calibration Panels",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "10.4 Fairness safeguards"
+    },
+    {
+      "from": "Code Of Conduct",
+      "relation": "refers to",
+      "to": "Code Of Business Conduct & Ethics",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "11. Code of Conduct"
+    },
+    {
+      "from": "Core Values",
+      "relation": "is governed by",
+      "to": "Conduct At Nexus",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "11. Code of Conduct"
+    },
+    {
+      "from": "Conflicts Of Interest",
+      "relation": "disclose",
+      "to": "Personal, Financial, Or Family Interest",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Security",
+      "relation": "follow",
+      "to": "Security Requirements",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Data Protection & Privacy",
+      "relation": "handle",
+      "to": "Privacy Standards",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Company Assets",
+      "relation": "use",
+      "to": "Company Systems, Devices, And Funds",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Company Assets",
+      "relation": "refers to",
+      "to": "Use Company Systems, Devices, And Funds Responsibly And Primarily For Legitimate Business Purposes",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Confidentiality",
+      "relation": "applies to",
+      "to": "Remote Work Policy",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "11.3 Confidentiality and remote work"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "refers to",
+      "to": "Infosec Standards",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "11.3 Confidentiality and remote work"
+    },
+    {
+      "from": "Inclusivity",
+      "relation": "applies to",
+      "to": "Dress Code",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "12.4 Inclusivity"
+    },
+    {
+      "from": "Inclusion",
+      "relation": "is governed by",
+      "to": "Remote Work Policy",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "13.3 Diversity, equity & inclusion"
+    },
+    {
+      "from": "Reporting",
+      "relation": "must be approved by",
+      "to": "Confidential Reporting Channel",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "13.3 Diversity, equity & inclusion"
+    },
+    {
+      "from": "Retaliation",
+      "relation": "is prohibited",
+      "to": "None",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "13.3 Diversity, equity & inclusion"
+    },
+    {
+      "from": "Investigation",
+      "relation": "follows a consistent process",
+      "to": "None",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "13.3 Diversity, equity & inclusion"
+    },
+    {
+      "from": "Substance",
+      "relation": "must not be impaired by",
+      "to": "Employees",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "13.5 Substance, safety, and workplace conduct"
+    },
+    {
+      "from": "Workplace Conduct",
+      "relation": "is governed by",
+      "to": "Substance",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "13.5 Substance, safety, and workplace conduct"
+    },
+    {
+      "from": "Office And Legal Entity",
+      "relation": "applies to",
+      "to": "Benefits",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "14. Employee Benefits"
+    },
+    {
+      "from": "Equity",
+      "relation": "refers to",
+      "to": "Company Equity Plan",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "14.2 Financial"
+    },
+    {
+      "from": "Eligibility",
+      "relation": "applies to",
+      "to": "Full-Time Employees",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "14.4 Eligibility"
+    },
+    {
+      "from": "Development Plan",
+      "relation": "is governed by",
+      "to": "Manager",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "15. Training & Development"
+    },
+    {
+      "from": "Learning Budget",
+      "relation": "applies to",
+      "to": "Manager",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "15.2 Types of learning"
+    },
+    {
+      "from": "Equal Access",
+      "relation": "applies to",
+      "to": "Training",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "15.4 Equal access"
+    },
+    {
+      "from": "Onboarding",
+      "relation": "refers to",
+      "to": "It & Corporate Systems",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "16. Onboarding"
+    },
+    {
+      "from": "Onboarding",
+      "relation": "applies to",
+      "to": "Remote Work Policy",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "16. Onboarding"
+    },
+    {
+      "from": "Onboarding Buddy",
+      "relation": "refers to",
+      "to": "New Joiner",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "16.2 First week"
+    },
+    {
+      "from": "Remote Onboarding",
+      "relation": "follows",
+      "to": "Same Milestones",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "16.4 Remote onboarding"
+    },
+    {
+      "from": "Remote Onboarding",
+      "relation": "is governed by",
+      "to": "Remote Work Policy",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "16.4 Remote onboarding"
+    },
+    {
+      "from": "It And Security",
+      "relation": "refers to",
+      "to": "Access, Assets, And Security",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "17.3 Access, assets, and security"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "applies to",
+      "to": "Company Equipment",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "17.3 Access, assets, and security"
+    },
+    {
+      "from": "Remote Work Policy",
+      "relation": "refers to",
+      "to": "Fully Remote Roles",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": "18. Frequently Asked Questions (FAQ)"
+    },
+    {
+      "from": "Parental Leave",
+      "relation": "applies to",
+      "to": "Company Baseline",
+      "source": "NEXUS_HR_POLICY_MANUAL.md",
+      "department": "hr",
+      "section": ""
+    },
+    {
+      "from": "Nexus",
+      "relation": "is described by",
+      "to": "Nexons",
+      "source": "GLOSSARY .md",
+      "department": "shared",
+      "section": ""
+    },
+    {
+      "from": "Elt",
+      "relation": "refers to",
+      "to": "Dri",
+      "source": "GLOSSARY .md",
+      "department": "shared",
+      "section": ""
+    },
+    {
+      "from": "Data Classification",
+      "relation": "applies to",
+      "to": "Tier 1 — Public",
+      "source": "GLOSSARY .md",
+      "department": "shared",
+      "section": "Data Classification"
+    },
+    {
+      "from": "Data Classification",
+      "relation": "applies to",
+      "to": "Tier 2 — Internal",
+      "source": "GLOSSARY .md",
+      "department": "shared",
+      "section": "Data Classification"
+    },
+    {
+      "from": "Data Classification",
+      "relation": "applies to",
+      "to": "Tier 3 — Confidential",
+      "source": "GLOSSARY .md",
+      "department": "shared",
+      "section": "Data Classification"
+    },
+    {
+      "from": "Data Classification",
+      "relation": "applies to",
+      "to": "Tier 4 — Restricted",
+      "source": "GLOSSARY .md",
+      "department": "shared",
+      "section": "Data Classification"
+    },
+    {
+      "from": "Password Policy",
+      "relation": "requires",
+      "to": "Character Requirements",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "IT Questions"
+    },
+    {
+      "from": "Password Policy",
+      "relation": "refers to",
+      "to": "It Policy §3.1",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "IT Questions"
+    },
+    {
+      "from": "Mfa",
+      "relation": "is mandatory for",
+      "to": "Nexusmail",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "IT Questions"
+    },
+    {
+      "from": "Vpn",
+      "relation": "must be used when connecting from outside an office location",
+      "to": "Nexussecure Vpn",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "IT Questions"
+    },
+    {
+      "from": "Information Security Policy",
+      "relation": "refers to",
+      "to": "Tier 3 — Confidential",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Security Questions"
+    },
+    {
+      "from": "Information Security Policy",
+      "relation": "refers to",
+      "to": "It Policy §7",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Security Questions"
+    },
+    {
+      "from": "It Policy",
+      "relation": "refers to",
+      "to": "Nexus Devices",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Security Questions"
+    },
+    {
+      "from": "It Security",
+      "relation": "must be approved by",
+      "to": "Ai Tools",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Security Questions"
+    },
+    {
+      "from": "Itemized Receipts",
+      "relation": "requires",
+      "to": "Expense Over $25 Usd",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Finance Questions"
+    },
+    {
+      "from": "Expenses",
+      "relation": "must be submitted in",
+      "to": "Workday",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Finance Questions"
+    },
+    {
+      "from": "Expenses",
+      "relation": "require director approval and may be denied",
+      "to": "Expenses Over 90 Days Old",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Finance Questions"
+    },
+    {
+      "from": "Approved Expense Reports",
+      "relation": "are disbursed by direct deposit within",
+      "to": "5-7 Business Days",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "Finance Questions"
+    },
+    {
+      "from": "Core Collaboration Days",
+      "relation": "applies to",
+      "to": "Hybrid Employees",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "General Policy Questions"
+    },
+    {
+      "from": "Nexusmail",
+      "relation": "refers to",
+      "to": "Official External Business Correspondence",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "General Policy Questions"
+    },
+    {
+      "from": "Ai-Generated Output",
+      "relation": "must be approved by",
+      "to": "Human Reviewer",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "General Policy Questions"
+    },
+    {
+      "from": "General Company Policies §7",
+      "relation": "refers to",
+      "to": "Code, Legal, Financial, Or Customer-Facing Work",
+      "source": "COMPANY_FAQ.md",
+      "department": "shared",
+      "section": "General Policy Questions"
+    },
+    {
+      "from": "Company-Wide",
+      "relation": "applies to",
+      "to": "All Full-Time, Part-Time, And Contract Employees Globally",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "Nexus Technologies — General Company Policies"
+    },
+    {
+      "from": "Remote Work",
+      "relation": "requires",
+      "to": "Nexusmeet",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "1. Remote Work Policy"
+    },
+    {
+      "from": "Remote Work",
+      "relation": "requires",
+      "to": "Nexusconnect",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "1. Remote Work Policy"
+    },
+    {
+      "from": "Remote Work",
+      "relation": "must be approved by",
+      "to": "Direct Manager And Hr",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "1. Remote Work Policy"
+    },
+    {
+      "from": "Core Collaboration Days",
+      "relation": "requires",
+      "to": "Hybrid Employees",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "2. Hybrid Work Policy"
+    },
+    {
+      "from": "It Policy",
+      "relation": "refers to",
+      "to": "Office Access Procedures",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "2. Hybrid Work Policy"
+    },
+    {
+      "from": "Hr",
+      "relation": "must be notified to",
+      "to": "Manager And Hr",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "2. Hybrid Work Policy"
+    },
+    {
+      "from": "Director",
+      "relation": "must approve",
+      "to": "Teams' Flexible Remote Day Adjustments",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "2. Hybrid Work Policy"
+    },
+    {
+      "from": "External Communications",
+      "relation": "requires",
+      "to": "Approval Hierarchy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "External communications (press, public statements, social media on behalf of Nexus) require approval per the Approval Hierarchy (Marketing Director → CMO → CEO if material)."
+    },
+    {
+      "from": "Meeting Policy",
+      "relation": "refers to",
+      "to": "Nexusmeet",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "4. Meeting Policy"
+    },
+    {
+      "from": "Meeting Policy",
+      "relation": "applies to",
+      "to": "Security Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "4. Meeting Policy"
+    },
+    {
+      "from": "Employee Responsibilities",
+      "relation": "requires",
+      "to": "Hr Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "5. Employee Responsibilities"
+    },
+    {
+      "from": "Employee Responsibilities",
+      "relation": "requires",
+      "to": "It Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "5. Employee Responsibilities"
+    },
+    {
+      "from": "Employee Responsibilities",
+      "relation": "requires",
+      "to": "Finance Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "5. Employee Responsibilities"
+    },
+    {
+      "from": "Employee Responsibilities",
+      "relation": "requires",
+      "to": "Security Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "5. Employee Responsibilities"
+    },
+    {
+      "from": "Workplace Expectations",
+      "relation": "refers to",
+      "to": "Nexus Way",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "6. Workplace Expectations"
+    },
+    {
+      "from": "Workplace Expectations",
+      "relation": "applies to",
+      "to": "Core Hours",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "6. Workplace Expectations"
+    },
+    {
+      "from": "Hr Policy",
+      "relation": "governs",
+      "to": "Performance Evaluation Through The Beacon Review",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "6. Workplace Expectations"
+    },
+    {
+      "from": "Hr Policy",
+      "relation": "refers to",
+      "to": "Anti-Harassment & Non-Discrimination Section",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "6. Workplace Expectations"
+    },
+    {
+      "from": "Ai Tools",
+      "relation": "refers to",
+      "to": "Security Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "7. Use of AI Tools"
+    },
+    {
+      "from": "Ai Tools",
+      "relation": "refers to",
+      "to": "It Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "7. Use of AI Tools"
+    },
+    {
+      "from": "Ai-Generated Output",
+      "relation": "must be reviewed by",
+      "to": "Human Review",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "7. Use of AI Tools"
+    },
+    {
+      "from": "Ai Tools",
+      "relation": "applies to",
+      "to": "Approved Tools",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "7. Use of AI Tools"
+    },
+    {
+      "from": "Ethics",
+      "relation": "refers to",
+      "to": "Finance Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "8. Ethics"
+    },
+    {
+      "from": "Ethics",
+      "relation": "must be approved by",
+      "to": "Legal & Compliance",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "8. Ethics"
+    },
+    {
+      "from": "Ethics",
+      "relation": "refers to",
+      "to": "Hr Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "8. Ethics"
+    },
+    {
+      "from": "Confidential Ethics & Integrity Line",
+      "relation": "is governed by",
+      "to": "Legal & Compliance",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "8. Ethics"
+    },
+    {
+      "from": "It Policy",
+      "relation": "refers to",
+      "to": "Security Policy",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "10. Business Continuity"
+    },
+    {
+      "from": "Business Continuity Plan",
+      "relation": "is governed by",
+      "to": "Operations",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "10. Business Continuity"
+    },
+    {
+      "from": "Nexushr Portal",
+      "relation": "must be approved by",
+      "to": "Hr",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "10. Business Continuity"
+    },
+    {
+      "from": "Coo",
+      "relation": "chairs",
+      "to": "Business Continuity Committee",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "10. Business Continuity"
+    },
+    {
+      "from": "It Policy",
+      "relation": "refers to",
+      "to": "Communication Guidelines",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "Policy Cross-Reference Index"
+    },
+    {
+      "from": "Security Policy (Data Classification)",
+      "relation": "refers to",
+      "to": "Communication Guidelines",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "Policy Cross-Reference Index"
+    },
+    {
+      "from": "Hr Policy",
+      "relation": "applies to",
+      "to": "Employee Responsibilities",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "Policy Cross-Reference Index"
+    },
+    {
+      "from": "It Policy (Software Approval)",
+      "relation": "requires",
+      "to": "Use Of Ai Tools",
+      "source": "General_Company_Policies.md",
+      "department": "finance",
+      "section": "Policy Cross-Reference Index"
+    },
+    {
+      "from": "Finance & Expense Policy",
+      "relation": "applies to",
+      "to": "All Full-Time Employees, Contractors, And Approved Contingent Workers",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "Nexus Technologies, Inc. — Finance & Expense Policy"
+    },
+    {
+      "from": "Purpose & Scope",
+      "relation": "applies to",
+      "to": "Expense Reporting",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "1. Purpose & Scope"
+    },
+    {
+      "from": "Expense Reimbursement",
+      "relation": "requires",
+      "to": "Itemized Receipts",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "2. Expense Reimbursement"
+    },
+    {
+      "from": "International Travel",
+      "relation": "requires",
+      "to": "Director Approval",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "3.4 Ground Transportation & Meals"
+    },
+    {
+      "from": "Travel To Elevated-Risk Destinations",
+      "relation": "notifies",
+      "to": "It & Security (Grc Team)",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "3.4 Ground Transportation & Meals"
+    },
+    {
+      "from": "Lost, Stolen, Or Compromised Cards",
+      "relation": "requires",
+      "to": "Finance & Accounting",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "4.4 Lost, Stolen, or Compromised Cards"
+    },
+    {
+      "from": "Lost, Stolen, Or Compromised Cards",
+      "relation": "requires",
+      "to": "It & Security",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "4.4 Lost, Stolen, or Compromised Cards"
+    },
+    {
+      "from": "Departmental Annual Operating Budgets",
+      "relation": "is approved by",
+      "to": "Cfo And The Relevant Department Vp",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "6. Budget Limits"
+    },
+    {
+      "from": "Unbudgeted / Exception Spend",
+      "relation": "requires",
+      "to": "Written Justification And Sign-Off One Level Above",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "6.4 Unbudgeted / Exception Spend"
+    },
+    {
+      "from": "Contract Value",
+      "relation": "applies to",
+      "to": "Department Director → Legal Review",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "8. Procurement Approval"
+    },
+    {
+      "from": "Procurement Lead",
+      "relation": "must be approved by",
+      "to": "Department Vp",
+      "source": "nexus-technologies-finance-expense-policy.md",
+      "department": "finance",
+      "section": "8. Procurement Approval"
+    },
+    {
+      "from": "Password Policy",
+      "relation": "requires",
+      "to": "Data Protection",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "Nexus Technologies — Information Security Policy"
+    },
+    {
+      "from": "Policy",
+      "relation": "applies to",
+      "to": "All Nexus Employees, Contractors, And Temporary Staff",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Purpose & Scope",
+      "relation": "establishes",
+      "to": "It Policy",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "1. Purpose & Scope"
+    },
+    {
+      "from": "Data Classification",
+      "relation": "applies to",
+      "to": "Handling And Storage Requirements",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "2. Data Classification"
+    },
+    {
+      "from": "Data Classification",
+      "relation": "applies to",
+      "to": "Document Creation",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "3. Customer Data Handling"
+    },
+    {
+      "from": "Customer Data",
+      "relation": "is classified as",
+      "to": "Tier 4 — Restricted",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Customer Data",
+      "relation": "must be stored in",
+      "to": "Nexus-Approved Cloud Environments",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Access To Customer Data",
+      "relation": "is granted on a need-to-know basis",
+      "to": "Quarterly Review By Director And It Security",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Customer Data",
+      "relation": "must never be exported to",
+      "to": "Personal Devices",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Confidential Information",
+      "relation": "includes",
+      "to": "Unreleased Product Plans",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "4. Confidential Information"
+    },
+    {
+      "from": "Confidential Information",
+      "relation": "must not be discussed in",
+      "to": "Public Spaces",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "4. Confidential Information"
+    },
+    {
+      "from": "Employees",
+      "relation": "retain confidentiality obligations indefinitely for",
+      "to": "Tier 3/4 Information",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "4. Confidential Information"
+    },
+    {
+      "from": "Role-Based Access Control (Rbac)",
+      "relation": "is enforced by",
+      "to": "Nexusdocs",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "5. Access Control"
+    },
+    {
+      "from": "Access Reviews",
+      "relation": "requires",
+      "to": "It Security And Relevant Directors",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "5. Access Control"
+    },
+    {
+      "from": "Shared Accounts",
+      "relation": "must be approved by",
+      "to": "It Security",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "5. Access Control"
+    },
+    {
+      "from": "Role-Based Access Control (Rbac)",
+      "relation": "applies to",
+      "to": "Production Systems",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "5. Access Control"
+    },
+    {
+      "from": "Encryption",
+      "relation": "applies to",
+      "to": "Data At Rest",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "9. Encryption"
+    },
+    {
+      "from": "Encryption",
+      "relation": "applies to",
+      "to": "Data In Transit",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "9. Encryption"
+    },
+    {
+      "from": "Encryption",
+      "relation": "refers to",
+      "to": "Credential/Key Management",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "9. Encryption"
+    },
+    {
+      "from": "Encryption",
+      "relation": "enforces",
+      "to": "Employees",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "9. Encryption"
+    },
+    {
+      "from": "Vpn Usage",
+      "relation": "requires",
+      "to": "It Policy, Section 5",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "10. Remote Access"
+    },
+    {
+      "from": "Remote-First Employees",
+      "relation": "must be approved by",
+      "to": "It Security And Legal & Compliance",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "10. Remote Access"
+    },
+    {
+      "from": "Incident",
+      "relation": "receives",
+      "to": "Post-Incident Review",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "11.3 Escalation Path"
+    },
+    {
+      "from": "Security Responsibilities",
+      "relation": "applies to",
+      "to": "All Employees",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "12. Security Responsibilities"
+    },
+    {
+      "from": "Security Responsibilities",
+      "relation": "requires",
+      "to": "It & Internal Systems",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "12. Security Responsibilities"
+    },
+    {
+      "from": "Classification Tier",
+      "relation": "is governed by",
+      "to": "Tier 3 — Confidential",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "13. FAQ"
+    },
+    {
+      "from": "Customer Data",
+      "relation": "must be approved by",
+      "to": "Nexus-Approved Systems",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": "13. FAQ"
+    },
+    {
+      "from": "Reporting Channel",
+      "relation": "refers to",
+      "to": "It Request Channel",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Security Incident",
+      "relation": "goes through",
+      "to": "Nexusconnect #Security-Incident",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "It Security Review",
+      "relation": "refers to",
+      "to": "Approval Hierarchy",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Nexus-Approved Ai Tools List",
+      "relation": "applies to",
+      "to": "Confidential (Tier 3) Data",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "Company Profile",
+      "relation": "works in conjunction with",
+      "to": "Information Security Policy",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    },
+    {
+      "from": "It & Internal Systems",
+      "relation": "maintains",
+      "to": "Information Security Policy",
+      "source": "Nexus_Technologies_Information_Security_Policy.md",
+      "department": "security",
+      "section": ""
+    }
+  ]
+}
