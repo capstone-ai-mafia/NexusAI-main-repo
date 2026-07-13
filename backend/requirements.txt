@@ -1,0 +1,25 @@
+# Runtime dependencies for the FastAPI backend + RAG pipeline
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+python-dotenv
+requests
+
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+
+chromadb
+sentence-transformers
+transformers
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
+scikit-learn
+joblib
