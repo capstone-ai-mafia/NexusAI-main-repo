@@ -1,0 +1,29 @@
+# Nexus AI — consolidated project requirements
+# (backend API + RAG pipeline + tests)
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+python-dotenv
+requests
+
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+
+chromadb
+sentence-transformers
+transformers
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
+scikit-learn
+joblib
+
+pytest
+httpx
