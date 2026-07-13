@@ -1,0 +1,201 @@
+id,expected_answer,source_document,section,expected_behavior
+Q001,"A new permanent employee usually serves a probationary period of up to three months, with check-ins at 30, 60, and 90 days.",data/hr/NEXUS_HR_POLICY_MANUAL.md,3.3 Probationary period,IN_SCOPE
+Q002,"A new permanent employee usually serves a probationary period of up to three months, with check-ins at 30, 60, and 90 days.",data/hr/NEXUS_HR_POLICY_MANUAL.md,3.3 Probationary period,IN_SCOPE
+Q003,"A new permanent employee usually serves a probationary period of up to three months, with check-ins at 30, 60, and 90 days.",data/hr/NEXUS_HR_POLICY_MANUAL.md,3.3 Probationary period,IN_SCOPE
+Q004,Routine leave requests should be submitted in Workday and approved by the reporting manager.,data/hr/NEXUS_HR_POLICY_MANUAL.md,5.3 Requesting leave,IN_SCOPE
+Q005,Routine leave requests should be submitted in Workday and approved by the reporting manager.,data/hr/NEXUS_HR_POLICY_MANUAL.md,5.3 Requesting leave,IN_SCOPE
+Q006,Routine leave requests should be submitted in Workday and approved by the reporting manager.,data/hr/NEXUS_HR_POLICY_MANUAL.md,5.3 Requesting leave,IN_SCOPE
+Q007,"Nexus provides up to 10 paid sick days per year as a company baseline, separate from annual leave.",data/hr/NEXUS_HR_POLICY_MANUAL.md,6.1 Entitlement,IN_SCOPE
+Q008,"Nexus provides up to 10 paid sick days per year as a company baseline, separate from annual leave.",data/hr/NEXUS_HR_POLICY_MANUAL.md,6.1 Entitlement,IN_SCOPE
+Q009,"Nexus provides up to 10 paid sick days per year as a company baseline, separate from annual leave.",data/hr/NEXUS_HR_POLICY_MANUAL.md,6.1 Entitlement,IN_SCOPE
+Q010,"Employees may carry over up to five unused days, and those carried-over days must be used by 31 March or they lapse unless local law requires otherwise.",data/hr/NEXUS_HR_POLICY_MANUAL.md,"5.2 Accrual, carryover, and payout",IN_SCOPE
+Q011,"Employees may carry over up to five unused days, and those carried-over days must be used by 31 March or they lapse unless local law requires otherwise.",data/hr/NEXUS_HR_POLICY_MANUAL.md,"5.2 Accrual, carryover, and payout",IN_SCOPE
+Q012,"Employees may carry over up to five unused days, and those carried-over days must be used by 31 March or they lapse unless local law requires otherwise.",data/hr/NEXUS_HR_POLICY_MANUAL.md,"5.2 Accrual, carryover, and payout",IN_SCOPE
+Q013,"Before extended leave, you should confirm a DRI handoff so no work item is left without an owner.",data/hr/NEXUS_HR_POLICY_MANUAL.md,5.3 Requesting leave,IN_SCOPE
+Q014,"Before extended leave, you should confirm a DRI handoff so no work item is left without an owner.",data/hr/NEXUS_HR_POLICY_MANUAL.md,5.3 Requesting leave,IN_SCOPE
+Q015,"Before extended leave, you should confirm a DRI handoff so no work item is left without an owner.",data/hr/NEXUS_HR_POLICY_MANUAL.md,5.3 Requesting leave,IN_SCOPE
+Q016,Part-time employees receive pro-rated leave based on their contracted hours.,data/hr/NEXUS_HR_POLICY_MANUAL.md,5.1 Company baseline entitlement,IN_SCOPE
+Q017,Part-time employees receive pro-rated leave based on their contracted hours.,data/hr/NEXUS_HR_POLICY_MANUAL.md,5.1 Company baseline entitlement,IN_SCOPE
+Q018,Part-time employees receive pro-rated leave based on their contracted hours.,data/hr/NEXUS_HR_POLICY_MANUAL.md,5.1 Company baseline entitlement,IN_SCOPE
+Q019,The company baseline for a primary caregiver is 16 weeks of fully paid leave.,data/hr/NEXUS_HR_POLICY_MANUAL.md,7.1 Company baseline,IN_SCOPE
+Q020,The company baseline for a primary caregiver is 16 weeks of fully paid leave.,data/hr/NEXUS_HR_POLICY_MANUAL.md,7.1 Company baseline,IN_SCOPE
+Q021,The company baseline for a primary caregiver is 16 weeks of fully paid leave.,data/hr/NEXUS_HR_POLICY_MANUAL.md,7.1 Company baseline,IN_SCOPE
+Q022,Promotions are based on sustained impact at the target level rather than tenure alone.,data/hr/NEXUS_HR_POLICY_MANUAL.md,10.1 Principles,IN_SCOPE
+Q023,Promotions are based on sustained impact at the target level rather than tenure alone.,data/hr/NEXUS_HR_POLICY_MANUAL.md,10.1 Principles,IN_SCOPE
+Q024,Promotions are based on sustained impact at the target level rather than tenure alone.,data/hr/NEXUS_HR_POLICY_MANUAL.md,10.1 Principles,IN_SCOPE
+Q025,Unused leave is handled according to policy and company devices must be returned within five business days of separation.,data/hr/NEXUS_HR_POLICY_MANUAL.md,"5.2 Accrual, carryover, and payout",IN_SCOPE
+Q026,Unused leave is handled according to policy and company devices must be returned within five business days of separation.,data/hr/NEXUS_HR_POLICY_MANUAL.md,"5.2 Accrual, carryover, and payout",IN_SCOPE
+Q027,Unused leave is handled according to policy and company devices must be returned within five business days of separation.,data/hr/NEXUS_HR_POLICY_MANUAL.md,"5.2 Accrual, carryover, and payout",IN_SCOPE
+Q028,Underperformance should be addressed early through a documented Performance Improvement Plan with clear objectives and a defined review period.,data/hr/NEXUS_HR_POLICY_MANUAL.md,9.5 Underperformance,IN_SCOPE
+Q029,Underperformance should be addressed early through a documented Performance Improvement Plan with clear objectives and a defined review period.,data/hr/NEXUS_HR_POLICY_MANUAL.md,9.5 Underperformance,IN_SCOPE
+Q030,Underperformance should be addressed early through a documented Performance Improvement Plan with clear objectives and a defined review period.,data/hr/NEXUS_HR_POLICY_MANUAL.md,9.5 Underperformance,IN_SCOPE
+Q031,I cannot answer that from the Nexus company policy knowledge base because it is outside corporate policy scope.,,,OUT_OF_SCOPE
+Q032,I cannot help draft non-policy content because it falls outside the internal company policy knowledge base.,,,OUT_OF_SCOPE
+Q033,Passwords must be at least 14 characters long and meet the required complexity rules.,data/it/Nexus_Technologies_IT_Policy.md,3.1 Requirements,IN_SCOPE
+Q034,Passwords must be at least 14 characters long and meet the required complexity rules.,data/it/Nexus_Technologies_IT_Policy.md,3.1 Requirements,IN_SCOPE
+Q035,Passwords must be at least 14 characters long and meet the required complexity rules.,data/it/Nexus_Technologies_IT_Policy.md,3.1 Requirements,IN_SCOPE
+Q036,"Credentials should be stored in NexusVault, the company-approved password manager.",data/it/Nexus_Technologies_IT_Policy.md,3.3 Storage & Sharing,IN_SCOPE
+Q037,"Credentials should be stored in NexusVault, the company-approved password manager.",data/it/Nexus_Technologies_IT_Policy.md,3.3 Storage & Sharing,IN_SCOPE
+Q038,"Credentials should be stored in NexusVault, the company-approved password manager.",data/it/Nexus_Technologies_IT_Policy.md,3.3 Storage & Sharing,IN_SCOPE
+Q039,"Yes. MFA is mandatory for NexusMail, NexusConnect, NexusDocs, NexusBoard, NexusFlow, the NexusHR Portal, VPN, and production or cloud environments.",data/it/Nexus_Technologies_IT_Policy.md,4 Multi-Factor Authentication (MFA),IN_SCOPE
+Q040,"Yes. MFA is mandatory for NexusMail, NexusConnect, NexusDocs, NexusBoard, NexusFlow, the NexusHR Portal, VPN, and production or cloud environments.",data/it/Nexus_Technologies_IT_Policy.md,4 Multi-Factor Authentication (MFA),IN_SCOPE
+Q041,"Yes. MFA is mandatory for NexusMail, NexusConnect, NexusDocs, NexusBoard, NexusFlow, the NexusHR Portal, VPN, and production or cloud environments.",data/it/Nexus_Technologies_IT_Policy.md,4 Multi-Factor Authentication (MFA),IN_SCOPE
+Q042,"Employees must use the NexusSecure VPN when connecting to internal Nexus systems from outside an office location, and public Wi-Fi requires VPN before access.",data/it/Nexus_Technologies_IT_Policy.md,5 VPN Usage,IN_SCOPE
+Q043,"Employees must use the NexusSecure VPN when connecting to internal Nexus systems from outside an office location, and public Wi-Fi requires VPN before access.",data/it/Nexus_Technologies_IT_Policy.md,5 VPN Usage,IN_SCOPE
+Q044,"Employees must use the NexusSecure VPN when connecting to internal Nexus systems from outside an office location, and public Wi-Fi requires VPN before access.",data/it/Nexus_Technologies_IT_Policy.md,5 VPN Usage,IN_SCOPE
+Q045,Unauthorized software generally requires approval from IT & Internal Systems before installation.,data/it/Nexus_Technologies_IT_Policy.md,6 Software Installation,IN_SCOPE
+Q046,Unauthorized software generally requires approval from IT & Internal Systems before installation.,data/it/Nexus_Technologies_IT_Policy.md,6 Software Installation,IN_SCOPE
+Q047,Unauthorized software generally requires approval from IT & Internal Systems before installation.,data/it/Nexus_Technologies_IT_Policy.md,6 Software Installation,IN_SCOPE
+Q048,Only tools on the Nexus-Approved AI Tools List may be used for work purposes.,data/it/Nexus_Technologies_IT_Policy.md,7 AI Tools Usage,IN_SCOPE
+Q049,Only tools on the Nexus-Approved AI Tools List may be used for work purposes.,data/it/Nexus_Technologies_IT_Policy.md,7 AI Tools Usage,IN_SCOPE
+Q050,Only tools on the Nexus-Approved AI Tools List may be used for work purposes.,data/it/Nexus_Technologies_IT_Policy.md,7 AI Tools Usage,IN_SCOPE
+Q051,NexusMail is the approved channel for official external business correspondence.,data/it/Nexus_Technologies_IT_Policy.md,8 Email Security,IN_SCOPE
+Q052,NexusMail is the approved channel for official external business correspondence.,data/it/Nexus_Technologies_IT_Policy.md,8 Email Security,IN_SCOPE
+Q053,NexusMail is the approved channel for official external business correspondence.,data/it/Nexus_Technologies_IT_Policy.md,8 Email Security,IN_SCOPE
+Q054,"Official company data should be stored in approved environments such as NexusDocs, NexusBoard, or designated Nexus Cloud Infrastructure.",data/it/Nexus_Technologies_IT_Policy.md,10 Cloud Storage,IN_SCOPE
+Q055,"Official company data should be stored in approved environments such as NexusDocs, NexusBoard, or designated Nexus Cloud Infrastructure.",data/it/Nexus_Technologies_IT_Policy.md,10 Cloud Storage,IN_SCOPE
+Q056,"Official company data should be stored in approved environments such as NexusDocs, NexusBoard, or designated Nexus Cloud Infrastructure.",data/it/Nexus_Technologies_IT_Policy.md,10 Cloud Storage,IN_SCOPE
+Q057,"Remote access should use a Nexus-managed and NDM-enrolled device, active MFA, and the VPN before accessing internal systems from public or hotel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q058,"Remote access should use a Nexus-managed and NDM-enrolled device, active MFA, and the VPN before accessing internal systems from public or hotel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q059,"Remote access should use a Nexus-managed and NDM-enrolled device, active MFA, and the VPN before accessing internal systems from public or hotel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q060,Do not plug it into a Nexus device; report it to IT Security instead.,data/security/Nexus_Technologies_Information_Security_Policy.md,8 USB Devices,IN_SCOPE
+Q061,Do not plug it into a Nexus device; report it to IT Security instead.,data/security/Nexus_Technologies_Information_Security_Policy.md,8 USB Devices,IN_SCOPE
+Q062,Do not plug it into a Nexus device; report it to IT Security instead.,data/security/Nexus_Technologies_Information_Security_Policy.md,8 USB Devices,IN_SCOPE
+Q063,I cannot help debug code outside the Nexus policy knowledge base because this request is outside internal policy scope.,,,OUT_OF_SCOPE
+Q064,A new document with no explicit label should default to Tier 3 — Confidential.,data/security/Nexus_Technologies_Information_Security_Policy.md,2 Data Classification,IN_SCOPE
+Q065,A new document with no explicit label should default to Tier 3 — Confidential.,data/security/Nexus_Technologies_Information_Security_Policy.md,2 Data Classification,IN_SCOPE
+Q066,A new document with no explicit label should default to Tier 3 — Confidential.,data/security/Nexus_Technologies_Information_Security_Policy.md,2 Data Classification,IN_SCOPE
+Q067,Customer data is classified as Tier 4 — Restricted at minimum.,data/security/Nexus_Technologies_Information_Security_Policy.md,3 Customer Data Handling,IN_SCOPE
+Q068,Customer data is classified as Tier 4 — Restricted at minimum.,data/security/Nexus_Technologies_Information_Security_Policy.md,3 Customer Data Handling,IN_SCOPE
+Q069,Customer data is classified as Tier 4 — Restricted at minimum.,data/security/Nexus_Technologies_Information_Security_Policy.md,3 Customer Data Handling,IN_SCOPE
+Q070,Confidential information must not be discussed in public spaces or on personal social media or messaging apps.,data/security/Nexus_Technologies_Information_Security_Policy.md,4 Confidential Information,IN_SCOPE
+Q071,Confidential information must not be discussed in public spaces or on personal social media or messaging apps.,data/security/Nexus_Technologies_Information_Security_Policy.md,4 Confidential Information,IN_SCOPE
+Q072,Confidential information must not be discussed in public spaces or on personal social media or messaging apps.,data/security/Nexus_Technologies_Information_Security_Policy.md,4 Confidential Information,IN_SCOPE
+Q073,Access should follow the principle of least privilege and be granted only when needed for the role.,data/security/Nexus_Technologies_Information_Security_Policy.md,5 Access Control,IN_SCOPE
+Q074,Access should follow the principle of least privilege and be granted only when needed for the role.,data/security/Nexus_Technologies_Information_Security_Policy.md,5 Access Control,IN_SCOPE
+Q075,Access should follow the principle of least privilege and be granted only when needed for the role.,data/security/Nexus_Technologies_Information_Security_Policy.md,5 Access Control,IN_SCOPE
+Q076,"Disconnect from the network, report to IT Security, and change affected passwords immediately using NexusVault.",data/security/Nexus_Technologies_Information_Security_Policy.md,6 Phishing,IN_SCOPE
+Q077,"Disconnect from the network, report to IT Security, and change affected passwords immediately using NexusVault.",data/security/Nexus_Technologies_Information_Security_Policy.md,6 Phishing,IN_SCOPE
+Q078,"Disconnect from the network, report to IT Security, and change affected passwords immediately using NexusVault.",data/security/Nexus_Technologies_Information_Security_Policy.md,6 Phishing,IN_SCOPE
+Q079,The device should be reported immediately and may be isolated from the network while the incident response process runs.,data/security/Nexus_Technologies_Information_Security_Policy.md,7 Malware,IN_SCOPE
+Q080,The device should be reported immediately and may be isolated from the network while the incident response process runs.,data/security/Nexus_Technologies_Information_Security_Policy.md,7 Malware,IN_SCOPE
+Q081,The device should be reported immediately and may be isolated from the network while the incident response process runs.,data/security/Nexus_Technologies_Information_Security_Policy.md,7 Malware,IN_SCOPE
+Q082,Yes. Reporting non-clicked phishing attempts helps IT Security protect the organization.,data/security/Nexus_Technologies_Information_Security_Policy.md,13 FAQ,IN_SCOPE
+Q083,Yes. Reporting non-clicked phishing attempts helps IT Security protect the organization.,data/security/Nexus_Technologies_Information_Security_Policy.md,13 FAQ,IN_SCOPE
+Q084,Yes. Reporting non-clicked phishing attempts helps IT Security protect the organization.,data/security/Nexus_Technologies_Information_Security_Policy.md,13 FAQ,IN_SCOPE
+Q085,No. Tier 4 data must never be transferred via USB without explicit written approval from IT Security and Legal & Compliance.,data/security/Nexus_Technologies_Information_Security_Policy.md,8 USB Devices,IN_SCOPE
+Q086,No. Tier 4 data must never be transferred via USB without explicit written approval from IT Security and Legal & Compliance.,data/security/Nexus_Technologies_Information_Security_Policy.md,8 USB Devices,IN_SCOPE
+Q087,No. Tier 4 data must never be transferred via USB without explicit written approval from IT Security and Legal & Compliance.,data/security/Nexus_Technologies_Information_Security_Policy.md,8 USB Devices,IN_SCOPE
+Q088,"Use only NDM-enrolled devices, active MFA, and the NexusSecure VPN before accessing internal resources from public Wi-Fi or travel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q089,"Use only NDM-enrolled devices, active MFA, and the NexusSecure VPN before accessing internal resources from public Wi-Fi or travel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q090,"Use only NDM-enrolled devices, active MFA, and the NexusSecure VPN before accessing internal resources from public Wi-Fi or travel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q091,The incident should be reported immediately and confirmed incidents involving Tier 4 or customer data require Legal & Compliance involvement.,data/security/Nexus_Technologies_Information_Security_Policy.md,11.2 Reporting Process,IN_SCOPE
+Q092,The incident should be reported immediately and confirmed incidents involving Tier 4 or customer data require Legal & Compliance involvement.,data/security/Nexus_Technologies_Information_Security_Policy.md,11.2 Reporting Process,IN_SCOPE
+Q093,The incident should be reported immediately and confirmed incidents involving Tier 4 or customer data require Legal & Compliance involvement.,data/security/Nexus_Technologies_Information_Security_Policy.md,11.2 Reporting Process,IN_SCOPE
+Q094,I cannot answer that from the Nexus company policy knowledge base because it is outside internal policy scope.,,,OUT_OF_SCOPE
+Q095,Itemized receipts are required for any expense over $25 USD.,data/finance/nexus-technologies-finance-expense-policy.md,2.3 Receipts & Documentation,IN_SCOPE
+Q096,Itemized receipts are required for any expense over $25 USD.,data/finance/nexus-technologies-finance-expense-policy.md,2.3 Receipts & Documentation,IN_SCOPE
+Q097,Itemized receipts are required for any expense over $25 USD.,data/finance/nexus-technologies-finance-expense-policy.md,2.3 Receipts & Documentation,IN_SCOPE
+Q098,Expenses must be submitted in Workday within 30 calendar days of being incurred.,data/finance/nexus-technologies-finance-expense-policy.md,2.4 Submission Deadlines,IN_SCOPE
+Q099,Expenses must be submitted in Workday within 30 calendar days of being incurred.,data/finance/nexus-technologies-finance-expense-policy.md,2.4 Submission Deadlines,IN_SCOPE
+Q100,Expenses must be submitted in Workday within 30 calendar days of being incurred.,data/finance/nexus-technologies-finance-expense-policy.md,2.4 Submission Deadlines,IN_SCOPE
+Q101,Business travel should be booked through the NexusTravel Portal.,data/finance/nexus-technologies-finance-expense-policy.md,3.1 Booking,IN_SCOPE
+Q102,Business travel should be booked through the NexusTravel Portal.,data/finance/nexus-technologies-finance-expense-policy.md,3.1 Booking,IN_SCOPE
+Q103,Business travel should be booked through the NexusTravel Portal.,data/finance/nexus-technologies-finance-expense-policy.md,3.1 Booking,IN_SCOPE
+Q104,Approved expense reports are disbursed by direct deposit within 5 to 7 business days of final approval.,data/finance/nexus-technologies-finance-expense-policy.md,2.5 Reimbursement Timeline,IN_SCOPE
+Q105,Approved expense reports are disbursed by direct deposit within 5 to 7 business days of final approval.,data/finance/nexus-technologies-finance-expense-policy.md,2.5 Reimbursement Timeline,IN_SCOPE
+Q106,Approved expense reports are disbursed by direct deposit within 5 to 7 business days of final approval.,data/finance/nexus-technologies-finance-expense-policy.md,2.5 Reimbursement Timeline,IN_SCOPE
+Q107,International travel requires Director approval regardless of cost.,data/finance/nexus-technologies-finance-expense-policy.md,3.5 International & High-Risk Travel,IN_SCOPE
+Q108,International travel requires Director approval regardless of cost.,data/finance/nexus-technologies-finance-expense-policy.md,3.5 International & High-Risk Travel,IN_SCOPE
+Q109,International travel requires Director approval regardless of cost.,data/finance/nexus-technologies-finance-expense-policy.md,3.5 International & High-Risk Travel,IN_SCOPE
+Q110,"The monthly limit for a Director or VP is $10,000.",data/finance/nexus-technologies-finance-expense-policy.md,4.2 Monthly Limits,IN_SCOPE
+Q111,"The monthly limit for a Director or VP is $10,000.",data/finance/nexus-technologies-finance-expense-policy.md,4.2 Monthly Limits,IN_SCOPE
+Q112,"The monthly limit for a Director or VP is $10,000.",data/finance/nexus-technologies-finance-expense-policy.md,4.2 Monthly Limits,IN_SCOPE
+Q113,A purchase request is required for purchases not made via corporate card and for vendor or subscription spend.,data/finance/nexus-technologies-finance-expense-policy.md,5.1 When a Purchase Request (PR) Is Required,IN_SCOPE
+Q114,A purchase request is required for purchases not made via corporate card and for vendor or subscription spend.,data/finance/nexus-technologies-finance-expense-policy.md,5.1 When a Purchase Request (PR) Is Required,IN_SCOPE
+Q115,A purchase request is required for purchases not made via corporate card and for vendor or subscription spend.,data/finance/nexus-technologies-finance-expense-policy.md,5.1 When a Purchase Request (PR) Is Required,IN_SCOPE
+Q116,A new vendor must be added to the vendor master and have the required compliance documents on file before payment.,data/finance/nexus-technologies-finance-expense-policy.md,7.1 New Vendor Onboarding,IN_SCOPE
+Q117,A new vendor must be added to the vendor master and have the required compliance documents on file before payment.,data/finance/nexus-technologies-finance-expense-policy.md,7.1 New Vendor Onboarding,IN_SCOPE
+Q118,A new vendor must be added to the vendor master and have the required compliance documents on file before payment.,data/finance/nexus-technologies-finance-expense-policy.md,7.1 New Vendor Onboarding,IN_SCOPE
+Q119,"Unbudgeted spend above the standard threshold usually requires approval one level above the standard threshold, and items in the $1,001 to $10,000 range require Director approval.",data/finance/nexus-technologies-finance-expense-policy.md,6.2 Expense & Purchase Approval Thresholds,IN_SCOPE
+Q120,"Unbudgeted spend above the standard threshold usually requires approval one level above the standard threshold, and items in the $1,001 to $10,000 range require Director approval.",data/finance/nexus-technologies-finance-expense-policy.md,6.2 Expense & Purchase Approval Thresholds,IN_SCOPE
+Q121,"Unbudgeted spend above the standard threshold usually requires approval one level above the standard threshold, and items in the $1,001 to $10,000 range require Director approval.",data/finance/nexus-technologies-finance-expense-policy.md,6.2 Expense & Purchase Approval Thresholds,IN_SCOPE
+Q122,The invoice is held by Accounts Payable and routed to Procurement until the discrepancy is resolved.,data/finance/nexus-technologies-finance-expense-policy.md,10 FAQ,IN_SCOPE
+Q123,The invoice is held by Accounts Payable and routed to Procurement until the discrepancy is resolved.,data/finance/nexus-technologies-finance-expense-policy.md,10 FAQ,IN_SCOPE
+Q124,The invoice is held by Accounts Payable and routed to Procurement until the discrepancy is resolved.,data/finance/nexus-technologies-finance-expense-policy.md,10 FAQ,IN_SCOPE
+Q125,I cannot recommend a restaurant from the Nexus company policy knowledge base because it is outside internal policy scope.,,,OUT_OF_SCOPE
+Q126,An approved NDA is usually required before confidential information is shared with an external party.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,2.1 When an NDA is required,IN_SCOPE
+Q127,An approved NDA is usually required before confidential information is shared with an external party.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,2.1 When an NDA is required,IN_SCOPE
+Q128,An approved NDA is usually required before confidential information is shared with an external party.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,2.1 When an NDA is required,IN_SCOPE
+Q129,Nexus owns employee work product created within the scope of employment.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,3.1 Ownership of work product,IN_SCOPE
+Q130,Nexus owns employee work product created within the scope of employment.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,3.1 Ownership of work product,IN_SCOPE
+Q131,Nexus owns employee work product created within the scope of employment.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,3.1 Ownership of work product,IN_SCOPE
+Q132,Only authorized signatories may execute contracts on behalf of Nexus.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q133,Only authorized signatories may execute contracts on behalf of Nexus.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q134,Only authorized signatories may execute contracts on behalf of Nexus.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q135,Non-standard legal terms should be reviewed by Legal & Compliance before signature.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q136,Non-standard legal terms should be reviewed by Legal & Compliance before signature.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q137,Non-standard legal terms should be reviewed by Legal & Compliance before signature.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q138,Third-party code or copyrighted material should not be imported without a valid license or permission.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,3.4 Third-party IP,IN_SCOPE
+Q139,Third-party code or copyrighted material should not be imported without a valid license or permission.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,3.4 Third-party IP,IN_SCOPE
+Q140,Third-party code or copyrighted material should not be imported without a valid license or permission.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,3.4 Third-party IP,IN_SCOPE
+Q141,"Ethics or legal concerns should be raised with a manager, Legal & Compliance, or the confidential reporting channel.",data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,6.3 Raising concerns and non-retaliation,IN_SCOPE
+Q142,"Ethics or legal concerns should be raised with a manager, Legal & Compliance, or the confidential reporting channel.",data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,6.3 Raising concerns and non-retaliation,IN_SCOPE
+Q143,"Ethics or legal concerns should be raised with a manager, Legal & Compliance, or the confidential reporting channel.",data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,6.3 Raising concerns and non-retaliation,IN_SCOPE
+Q144,Nexus acts as a processor under the customer's instructions and a data processing agreement.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,7.1 Nexus's two privacy roles,IN_SCOPE
+Q145,Nexus acts as a processor under the customer's instructions and a data processing agreement.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,7.1 Nexus's two privacy roles,IN_SCOPE
+Q146,Nexus acts as a processor under the customer's instructions and a data processing agreement.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,7.1 Nexus's two privacy roles,IN_SCOPE
+Q147,A suspected privacy breach should be reported immediately to Security and the DPO through the incident process.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,7.5 Personal data breach response,IN_SCOPE
+Q148,A suspected privacy breach should be reported immediately to Security and the DPO through the incident process.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,7.5 Personal data breach response,IN_SCOPE
+Q149,A suspected privacy breach should be reported immediately to Security and the DPO through the incident process.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,7.5 Personal data breach response,IN_SCOPE
+Q150,"Confidential information should not be shared externally without an NDA and a legitimate business reason, and non-standard legal terms should be reviewed by Legal & Compliance.",data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,4.2 Handling obligations,IN_SCOPE
+Q151,"Confidential information should not be shared externally without an NDA and a legitimate business reason, and non-standard legal terms should be reviewed by Legal & Compliance.",data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,4.2 Handling obligations,IN_SCOPE
+Q152,"Confidential information should not be shared externally without an NDA and a legitimate business reason, and non-standard legal terms should be reviewed by Legal & Compliance.",data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,4.2 Handling obligations,IN_SCOPE
+Q153,The identified records must be preserved and must not be deleted or altered until the hold is released.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,8.3 Legal holds,IN_SCOPE
+Q154,The identified records must be preserved and must not be deleted or altered until the hold is released.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,8.3 Legal holds,IN_SCOPE
+Q155,The identified records must be preserved and must not be deleted or altered until the hold is released.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,8.3 Legal holds,IN_SCOPE
+Q156,I cannot translate non-policy content because it is outside the Nexus company policy knowledge base.,,,OUT_OF_SCOPE
+Q157,Tuesday through Thursday are the standard core collaboration days for hybrid employees.,data/finance/General_Company_Policies.md,2 Hybrid Work Policy,IN_SCOPE
+Q158,Tuesday through Thursday are the standard core collaboration days for hybrid employees.,data/finance/General_Company_Policies.md,2 Hybrid Work Policy,IN_SCOPE
+Q159,Tuesday through Thursday are the standard core collaboration days for hybrid employees.,data/finance/General_Company_Policies.md,2 Hybrid Work Policy,IN_SCOPE
+Q160,NexusConnect is intended for day-to-day informal team communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q161,NexusConnect is intended for day-to-day informal team communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q162,NexusConnect is intended for day-to-day informal team communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q163,NexusMail should be used for formal or external written communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q164,NexusMail should be used for formal or external written communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q165,NexusMail should be used for formal or external written communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q166,"Employees should report policy violations or ethical concerns to their manager, HR Business Partner, or the confidential channel.",data/finance/General_Company_Policies.md,5 Employee Responsibilities,IN_SCOPE
+Q167,"Employees should report policy violations or ethical concerns to their manager, HR Business Partner, or the confidential channel.",data/finance/General_Company_Policies.md,5 Employee Responsibilities,IN_SCOPE
+Q168,"Employees should report policy violations or ethical concerns to their manager, HR Business Partner, or the confidential channel.",data/finance/General_Company_Policies.md,5 Employee Responsibilities,IN_SCOPE
+Q169,Meetings should default to NexusMeet and be scheduled within core hours to support hybrid and remote staff.,data/finance/General_Company_Policies.md,4 Meeting Policy,IN_SCOPE
+Q170,Meetings should default to NexusMeet and be scheduled within core hours to support hybrid and remote staff.,data/finance/General_Company_Policies.md,4 Meeting Policy,IN_SCOPE
+Q171,Meetings should default to NexusMeet and be scheduled within core hours to support hybrid and remote staff.,data/finance/General_Company_Policies.md,4 Meeting Policy,IN_SCOPE
+Q172,AI-generated output should not be treated as final work product without human review.,data/finance/General_Company_Policies.md,7 Use of AI Tools,IN_SCOPE
+Q173,AI-generated output should not be treated as final work product without human review.,data/finance/General_Company_Policies.md,7 Use of AI Tools,IN_SCOPE
+Q174,AI-generated output should not be treated as final work product without human review.,data/finance/General_Company_Policies.md,7 Use of AI Tools,IN_SCOPE
+Q175,"Company-wide written communication should reflect the core values of clarity, integrity, ownership, curiosity, and momentum.",data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q176,"Company-wide written communication should reflect the core values of clarity, integrity, ownership, curiosity, and momentum.",data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q177,"Company-wide written communication should reflect the core values of clarity, integrity, ownership, curiosity, and momentum.",data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q178,Travel should favor virtual meetings where practical and reserve travel for high-value client or strategic engagements.,data/finance/General_Company_Policies.md,9 Sustainability,IN_SCOPE
+Q179,Travel should favor virtual meetings where practical and reserve travel for high-value client or strategic engagements.,data/finance/General_Company_Policies.md,9 Sustainability,IN_SCOPE
+Q180,Travel should favor virtual meetings where practical and reserve travel for high-value client or strategic engagements.,data/finance/General_Company_Policies.md,9 Sustainability,IN_SCOPE
+Q181,Affected employees default to full remote work until normal operations resume.,data/finance/General_Company_Policies.md,10 Business Continuity,IN_SCOPE
+Q182,Affected employees default to full remote work until normal operations resume.,data/finance/General_Company_Policies.md,10 Business Continuity,IN_SCOPE
+Q183,Affected employees default to full remote work until normal operations resume.,data/finance/General_Company_Policies.md,10 Business Continuity,IN_SCOPE
+Q184,A new AI tool for department use should go through the IT Security review and approval process before adoption.,data/finance/General_Company_Policies.md,7 Use of AI Tools,IN_SCOPE
+Q185,A new AI tool for department use should go through the IT Security review and approval process before adoption.,data/finance/General_Company_Policies.md,7 Use of AI Tools,IN_SCOPE
+Q186,A new AI tool for department use should go through the IT Security review and approval process before adoption.,data/finance/General_Company_Policies.md,7 Use of AI Tools,IN_SCOPE
+Q187,I cannot recommend a restaurant from the Nexus company policy knowledge base because it is outside internal policy scope.,,,OUT_OF_SCOPE
+Q188,I cannot answer market or financial questions that are outside the Nexus company policy knowledge base.,,,OUT_OF_SCOPE
+Q189,Performance issues should be addressed through a documented Performance Improvement Plan with clear objectives and a review period.,data/hr/NEXUS_HR_POLICY_MANUAL.md,9.5 Underperformance,IN_SCOPE
+Q190,"Remote access should use approved devices, active MFA, and the VPN before accessing internal resources from public or hotel networks.",data/security/Nexus_Technologies_Information_Security_Policy.md,10 Remote Access,IN_SCOPE
+Q191,"Tier 3 and Tier 4 data should be shared through secure NexusDocs links or the approved collaboration workflow, not by ad hoc channels.",data/security/Nexus_Technologies_Information_Security_Policy.md,9 Encryption,IN_SCOPE
+Q192,Purchases in this range generally require the appropriate approval chain and should be routed through the standard purchase process.,data/finance/nexus-technologies-finance-expense-policy.md,6.2 Expense & Purchase Approval Thresholds,IN_SCOPE
+Q193,Partner templates and non-standard terms should be reviewed by Legal & Compliance before signature or external use.,data/legal/NEXUS_LEGAL_COMPLIANCE_MANUAL.md,5.1 Core principles,IN_SCOPE
+Q194,Affected employees default to full remote work until normal operations resume.,data/finance/General_Company_Policies.md,10 Business Continuity,IN_SCOPE
+Q195,NexusMail should be used for formal or external written communication.,data/finance/General_Company_Policies.md,3 Company Communication Guidelines,IN_SCOPE
+Q196,Use the relevant policy source or raise the question through the appropriate internal channel.,,,OUT_OF_SCOPE
+Q197,Use the relevant policy source or raise the question through the appropriate internal channel.,,,OUT_OF_SCOPE
+Q198,Use the relevant policy source or raise the question through the appropriate internal channel.,,,OUT_OF_SCOPE
+Q199,Use the relevant policy source or raise the question through the appropriate internal channel.,,,OUT_OF_SCOPE
+Q200,Use the relevant policy source or raise the question through the appropriate internal channel.,,,OUT_OF_SCOPE

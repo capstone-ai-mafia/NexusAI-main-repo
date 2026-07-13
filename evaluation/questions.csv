@@ -1,0 +1,201 @@
+id,department,difficulty,question,expected_behavior
+Q001,HR,Easy,How long does my probation usually last as a new permanent employee?,IN_SCOPE
+Q002,HR,Easy,Can you help me with how long does my probation usually last as a new permanent employee?,IN_SCOPE
+Q003,HR,Easy,What should I do if how long does my probation usually last as a new permanent employee?,IN_SCOPE
+Q004,HR,Easy,Where do I submit a routine leave request for work?,IN_SCOPE
+Q005,HR,Easy,Can you help me with where do i submit a routine leave request for work?,IN_SCOPE
+Q006,HR,Easy,What should I do if where do i submit a routine leave request for work?,IN_SCOPE
+Q007,HR,Easy,How many paid sick days does Nexus provide as a baseline?,IN_SCOPE
+Q008,HR,Easy,Can you help me with how many paid sick days does nexus provide as a baseline?,IN_SCOPE
+Q009,HR,Easy,What should I do if how many paid sick days does nexus provide as a baseline?,IN_SCOPE
+Q010,HR,Medium,Can I carry unused vacation days into the next year?,IN_SCOPE
+Q011,HR,Medium,Can you help me with can i carry unused vacation days into the next year?,IN_SCOPE
+Q012,HR,Medium,What should I do if can i carry unused vacation days into the next year?,IN_SCOPE
+Q013,HR,Medium,What should I do before I take extended leave if I am the DRI for an active project?,IN_SCOPE
+Q014,HR,Medium,Can you help me with what should i do before i take extended leave if i am the dri for an active project?,IN_SCOPE
+Q015,HR,Medium,What should I do if what should i do before i take extended leave if i am the dri for an active project?,IN_SCOPE
+Q016,HR,Medium,Will my part-time schedule reduce my leave entitlement?,IN_SCOPE
+Q017,HR,Medium,Can you help me with will my part-time schedule reduce my leave entitlement?,IN_SCOPE
+Q018,HR,Medium,What should I do if will my part-time schedule reduce my leave entitlement?,IN_SCOPE
+Q019,HR,Medium,What is the company baseline for primary caregivers taking parental leave?,IN_SCOPE
+Q020,HR,Medium,Can you help me with what is the company baseline for primary caregivers taking parental leave?,IN_SCOPE
+Q021,HR,Medium,What should I do if what is the company baseline for primary caregivers taking parental leave?,IN_SCOPE
+Q022,HR,Medium,How are promotions evaluated at Nexus?,IN_SCOPE
+Q023,HR,Medium,Can you help me with how are promotions evaluated at nexus?,IN_SCOPE
+Q024,HR,Medium,What should I do if how are promotions evaluated at nexus?,IN_SCOPE
+Q025,HR,Hard,I am leaving the company next month. What happens to my remaining leave balance and the equipment I was issued?,IN_SCOPE
+Q026,HR,Hard,Can you help me with i am leaving the company next month. what happens to my remaining leave balance and the equipment i was issued?,IN_SCOPE
+Q027,HR,Hard,What should I do if i am leaving the company next month. what happens to my remaining leave balance and the equipment i was issued?,IN_SCOPE
+Q028,HR,Hard,My performance is slipping and I am worried about my review. What should happen next?,IN_SCOPE
+Q029,HR,Hard,Can you help me with my performance is slipping and i am worried about my review. what should happen next?,IN_SCOPE
+Q030,HR,Hard,What should I do if my performance is slipping and i am worried about my review. what should happen next?,IN_SCOPE
+Q031,HR,Easy,What is the weather like in Austin today?,OUT_OF_SCOPE
+Q032,HR,Easy,Can you draft a birthday invitation for my team?,OUT_OF_SCOPE
+Q033,IT,Easy,Do I need to use a minimum password length for my Nexus account?,IN_SCOPE
+Q034,IT,Easy,Can you help me with do i need to use a minimum password length for my nexus account?,IN_SCOPE
+Q035,IT,Easy,What should I do if do i need to use a minimum password length for my nexus account?,IN_SCOPE
+Q036,IT,Easy,Where should I store my credentials securely?,IN_SCOPE
+Q037,IT,Easy,Can you help me with where should i store my credentials securely?,IN_SCOPE
+Q038,IT,Easy,What should I do if where should i store my credentials securely?,IN_SCOPE
+Q039,IT,Easy,Is MFA mandatory for my Nexus accounts?,IN_SCOPE
+Q040,IT,Easy,Can you help me with is mfa mandatory for my nexus accounts?,IN_SCOPE
+Q041,IT,Easy,What should I do if is mfa mandatory for my nexus accounts?,IN_SCOPE
+Q042,IT,Medium,Do I need to connect to VPN when I work from home?,IN_SCOPE
+Q043,IT,Medium,Can you help me with do i need to connect to vpn when i work from home?,IN_SCOPE
+Q044,IT,Medium,What should I do if do i need to connect to vpn when i work from home?,IN_SCOPE
+Q045,IT,Medium,Can I install software on my company laptop without approval?,IN_SCOPE
+Q046,IT,Medium,Can you help me with can i install software on my company laptop without approval?,IN_SCOPE
+Q047,IT,Medium,What should I do if can i install software on my company laptop without approval?,IN_SCOPE
+Q048,IT,Medium,Which AI tools can I use for work?,IN_SCOPE
+Q049,IT,Medium,Can you help me with which ai tools can i use for work?,IN_SCOPE
+Q050,IT,Medium,What should I do if which ai tools can i use for work?,IN_SCOPE
+Q051,IT,Medium,What is the approved channel for official external email?,IN_SCOPE
+Q052,IT,Medium,Can you help me with what is the approved channel for official external email?,IN_SCOPE
+Q053,IT,Medium,What should I do if what is the approved channel for official external email?,IN_SCOPE
+Q054,IT,Medium,Where should official company data be stored?,IN_SCOPE
+Q055,IT,Medium,Can you help me with where should official company data be stored?,IN_SCOPE
+Q056,IT,Medium,What should I do if where should official company data be stored?,IN_SCOPE
+Q057,IT,Hard,I am traveling and need to access internal systems from a hotel network. What should I do before I log in?,IN_SCOPE
+Q058,IT,Hard,Can you help me with i am traveling and need to access internal systems from a hotel network. what should i do before i log in?,IN_SCOPE
+Q059,IT,Hard,What should I do if i am traveling and need to access internal systems from a hotel network. what should i do before i log in?,IN_SCOPE
+Q060,IT,Hard,I found an unfamiliar USB drive in the office. What should I do with it?,IN_SCOPE
+Q061,IT,Hard,Can you help me with i found an unfamiliar usb drive in the office. what should i do with it?,IN_SCOPE
+Q062,IT,Hard,What should I do if i found an unfamiliar usb drive in the office. what should i do with it?,IN_SCOPE
+Q063,IT,Easy,Can you debug my Python script for me?,OUT_OF_SCOPE
+Q064,Security,Easy,"If a document has no explicit label, what classification should I assume?",IN_SCOPE
+Q065,Security,Easy,"Can you help me with if a document has no explicit label, what classification should i assume?",IN_SCOPE
+Q066,Security,Easy,"What should I do if if a document has no explicit label, what classification should i assume?",IN_SCOPE
+Q067,Security,Easy,What is the minimum classification for customer data?,IN_SCOPE
+Q068,Security,Easy,Can you help me with what is the minimum classification for customer data?,IN_SCOPE
+Q069,Security,Easy,What should I do if what is the minimum classification for customer data?,IN_SCOPE
+Q070,Security,Medium,Can I discuss confidential information in a public café?,IN_SCOPE
+Q071,Security,Medium,Can you help me with can i discuss confidential information in a public café?,IN_SCOPE
+Q072,Security,Medium,What should I do if can i discuss confidential information in a public café?,IN_SCOPE
+Q073,Security,Medium,How should access be granted to systems and data?,IN_SCOPE
+Q074,Security,Medium,Can you help me with how should access be granted to systems and data?,IN_SCOPE
+Q075,Security,Medium,What should I do if how should access be granted to systems and data?,IN_SCOPE
+Q076,Security,Medium,I clicked a link that looked suspicious. What should I do immediately?,IN_SCOPE
+Q077,Security,Medium,Can you help me with i clicked a link that looked suspicious. what should i do immediately?,IN_SCOPE
+Q078,Security,Medium,What should I do if i clicked a link that looked suspicious. what should i do immediately?,IN_SCOPE
+Q079,Security,Medium,What should I do if a laptop starts showing pop-ups and unfamiliar processes?,IN_SCOPE
+Q080,Security,Medium,Can you help me with what should i do if a laptop starts showing pop-ups and unfamiliar processes?,IN_SCOPE
+Q081,Security,Medium,What should I do if what should i do if a laptop starts showing pop-ups and unfamiliar processes?,IN_SCOPE
+Q082,Security,Medium,Do I need to report a phishing email if I did not click it?,IN_SCOPE
+Q083,Security,Medium,Can you help me with do i need to report a phishing email if i did not click it?,IN_SCOPE
+Q084,Security,Medium,What should I do if do i need to report a phishing email if i did not click it?,IN_SCOPE
+Q085,Security,Medium,Can I transfer Tier 4 data with a USB drive if I have a business need?,IN_SCOPE
+Q086,Security,Medium,Can you help me with can i transfer tier 4 data with a usb drive if i have a business need?,IN_SCOPE
+Q087,Security,Medium,What should I do if can i transfer tier 4 data with a usb drive if i have a business need?,IN_SCOPE
+Q088,Security,Hard,I am working from an airport and need to access customer data. What security steps are required before I begin?,IN_SCOPE
+Q089,Security,Hard,Can you help me with i am working from an airport and need to access customer data. what security steps are required before i begin?,IN_SCOPE
+Q090,Security,Hard,What should I do if i am working from an airport and need to access customer data. what security steps are required before i begin?,IN_SCOPE
+Q091,Security,Hard,A suspected incident involves customer data and a shared device. Who needs to be involved?,IN_SCOPE
+Q092,Security,Hard,Can you help me with a suspected incident involves customer data and a shared device. who needs to be involved?,IN_SCOPE
+Q093,Security,Hard,What should I do if a suspected incident involves customer data and a shared device. who needs to be involved?,IN_SCOPE
+Q094,Security,Easy,Who won the football match last night?,OUT_OF_SCOPE
+Q095,Finance,Easy,What documentation is required for an expense over $25 USD?,IN_SCOPE
+Q096,Finance,Easy,Can you help me with what documentation is required for an expense over $25 usd?,IN_SCOPE
+Q097,Finance,Easy,What should I do if what documentation is required for an expense over $25 usd?,IN_SCOPE
+Q098,Finance,Easy,How soon do I need to submit an expense in Workday?,IN_SCOPE
+Q099,Finance,Easy,Can you help me with how soon do i need to submit an expense in workday?,IN_SCOPE
+Q100,Finance,Easy,What should I do if how soon do i need to submit an expense in workday?,IN_SCOPE
+Q101,Finance,Easy,Where should I book business travel?,IN_SCOPE
+Q102,Finance,Easy,Can you help me with where should i book business travel?,IN_SCOPE
+Q103,Finance,Easy,What should I do if where should i book business travel?,IN_SCOPE
+Q104,Finance,Medium,How long does reimbursement usually take after approval?,IN_SCOPE
+Q105,Finance,Medium,Can you help me with how long does reimbursement usually take after approval?,IN_SCOPE
+Q106,Finance,Medium,What should I do if how long does reimbursement usually take after approval?,IN_SCOPE
+Q107,Finance,Medium,Do I need special approval for international travel?,IN_SCOPE
+Q108,Finance,Medium,Can you help me with do i need special approval for international travel?,IN_SCOPE
+Q109,Finance,Medium,What should I do if do i need special approval for international travel?,IN_SCOPE
+Q110,Finance,Medium,What is the corporate card limit for a Director or VP?,IN_SCOPE
+Q111,Finance,Medium,Can you help me with what is the corporate card limit for a director or vp?,IN_SCOPE
+Q112,Finance,Medium,What should I do if what is the corporate card limit for a director or vp?,IN_SCOPE
+Q113,Finance,Medium,When do I need a purchase request?,IN_SCOPE
+Q114,Finance,Medium,Can you help me with when do i need a purchase request?,IN_SCOPE
+Q115,Finance,Medium,What should I do if when do i need a purchase request?,IN_SCOPE
+Q116,Finance,Medium,How is a new vendor onboarded before payment?,IN_SCOPE
+Q117,Finance,Medium,Can you help me with how is a new vendor onboarded before payment?,IN_SCOPE
+Q118,Finance,Medium,What should I do if how is a new vendor onboarded before payment?,IN_SCOPE
+Q119,Finance,Hard,"I am buying a service for $8,000 that was not in the budget. What approval should I expect?",IN_SCOPE
+Q120,Finance,Hard,"Can you help me with i am buying a service for $8,000 that was not in the budget. what approval should i expect?",IN_SCOPE
+Q121,Finance,Hard,"What should I do if i am buying a service for $8,000 that was not in the budget. what approval should i expect?",IN_SCOPE
+Q122,Finance,Hard,The invoice does not match the purchase order. What happens next?,IN_SCOPE
+Q123,Finance,Hard,Can you help me with the invoice does not match the purchase order. what happens next?,IN_SCOPE
+Q124,Finance,Hard,What should I do if the invoice does not match the purchase order. what happens next?,IN_SCOPE
+Q125,Finance,Easy,Recommend a restaurant near my office.,OUT_OF_SCOPE
+Q126,Legal,Easy,When is an NDA usually required before sharing confidential information?,IN_SCOPE
+Q127,Legal,Easy,Can you help me with when is an nda usually required before sharing confidential information?,IN_SCOPE
+Q128,Legal,Easy,What should I do if when is an nda usually required before sharing confidential information?,IN_SCOPE
+Q129,Legal,Easy,Who owns work created by employees within the scope of employment?,IN_SCOPE
+Q130,Legal,Easy,Can you help me with who owns work created by employees within the scope of employment?,IN_SCOPE
+Q131,Legal,Easy,What should I do if who owns work created by employees within the scope of employment?,IN_SCOPE
+Q132,Legal,Easy,Can employees sign contracts on behalf of Nexus?,IN_SCOPE
+Q133,Legal,Easy,Can you help me with can employees sign contracts on behalf of nexus?,IN_SCOPE
+Q134,Legal,Easy,What should I do if can employees sign contracts on behalf of nexus?,IN_SCOPE
+Q135,Legal,Medium,What if a contract uses non-standard legal terms?,IN_SCOPE
+Q136,Legal,Medium,Can you help me with what if a contract uses non-standard legal terms?,IN_SCOPE
+Q137,Legal,Medium,What should I do if what if a contract uses non-standard legal terms?,IN_SCOPE
+Q138,Legal,Medium,Can I import third-party code into a product without permission?,IN_SCOPE
+Q139,Legal,Medium,Can you help me with can i import third-party code into a product without permission?,IN_SCOPE
+Q140,Legal,Medium,What should I do if can i import third-party code into a product without permission?,IN_SCOPE
+Q141,Legal,Medium,How should I raise an ethics or legal concern?,IN_SCOPE
+Q142,Legal,Medium,Can you help me with how should i raise an ethics or legal concern?,IN_SCOPE
+Q143,Legal,Medium,What should I do if how should i raise an ethics or legal concern?,IN_SCOPE
+Q144,Legal,Medium,What is Nexus's role when it processes customer personal data for a customer?,IN_SCOPE
+Q145,Legal,Medium,Can you help me with what is nexus's role when it processes customer personal data for a customer?,IN_SCOPE
+Q146,Legal,Medium,What should I do if what is nexus's role when it processes customer personal data for a customer?,IN_SCOPE
+Q147,Legal,Medium,What should I do if I suspect a privacy breach?,IN_SCOPE
+Q148,Legal,Medium,Can you help me with what should i do if i suspect a privacy breach?,IN_SCOPE
+Q149,Legal,Medium,What should I do if what should i do if i suspect a privacy breach?,IN_SCOPE
+Q150,Legal,Hard,I am sharing a customer demo with a partner and need to discuss product strategy. What legal steps should be in place first?,IN_SCOPE
+Q151,Legal,Hard,Can you help me with i am sharing a customer demo with a partner and need to discuss product strategy. what legal steps should be in place first?,IN_SCOPE
+Q152,Legal,Hard,What should I do if i am sharing a customer demo with a partner and need to discuss product strategy. what legal steps should be in place first?,IN_SCOPE
+Q153,Legal,Hard,What should happen to records if Legal issues a hold?,IN_SCOPE
+Q154,Legal,Hard,Can you help me with what should happen to records if legal issues a hold?,IN_SCOPE
+Q155,Legal,Hard,What should I do if what should happen to records if legal issues a hold?,IN_SCOPE
+Q156,Legal,Easy,Translate this email into French for me.,OUT_OF_SCOPE
+Q157,General Policies,Easy,Which days are the standard core collaboration days for hybrid employees?,IN_SCOPE
+Q158,General Policies,Easy,Can you help me with which days are the standard core collaboration days for hybrid employees?,IN_SCOPE
+Q159,General Policies,Easy,What should I do if which days are the standard core collaboration days for hybrid employees?,IN_SCOPE
+Q160,General Policies,Easy,Which tool should I use for day-to-day informal team communication?,IN_SCOPE
+Q161,General Policies,Easy,Can you help me with which tool should i use for day-to-day informal team communication?,IN_SCOPE
+Q162,General Policies,Easy,What should I do if which tool should i use for day-to-day informal team communication?,IN_SCOPE
+Q163,General Policies,Easy,Which tool should I use for formal or external written communication?,IN_SCOPE
+Q164,General Policies,Easy,Can you help me with which tool should i use for formal or external written communication?,IN_SCOPE
+Q165,General Policies,Easy,What should I do if which tool should i use for formal or external written communication?,IN_SCOPE
+Q166,General Policies,Medium,What should I do if I notice a policy violation or an ethical concern?,IN_SCOPE
+Q167,General Policies,Medium,Can you help me with what should i do if i notice a policy violation or an ethical concern?,IN_SCOPE
+Q168,General Policies,Medium,What should I do if what should i do if i notice a policy violation or an ethical concern?,IN_SCOPE
+Q169,General Policies,Medium,How should meetings be scheduled to support remote and hybrid staff?,IN_SCOPE
+Q170,General Policies,Medium,Can you help me with how should meetings be scheduled to support remote and hybrid staff?,IN_SCOPE
+Q171,General Policies,Medium,What should I do if how should meetings be scheduled to support remote and hybrid staff?,IN_SCOPE
+Q172,General Policies,Medium,Should AI-generated output be treated as final work product?,IN_SCOPE
+Q173,General Policies,Medium,Can you help me with should ai-generated output be treated as final work product?,IN_SCOPE
+Q174,General Policies,Medium,What should I do if should ai-generated output be treated as final work product?,IN_SCOPE
+Q175,General Policies,Medium,What is the company's expectation for company-wide written communication?,IN_SCOPE
+Q176,General Policies,Medium,Can you help me with what is the company's expectation for company-wide written communication?,IN_SCOPE
+Q177,General Policies,Medium,What should I do if what is the company's expectation for company-wide written communication?,IN_SCOPE
+Q178,General Policies,Medium,How should business travel be balanced with virtual meetings?,IN_SCOPE
+Q179,General Policies,Medium,Can you help me with how should business travel be balanced with virtual meetings?,IN_SCOPE
+Q180,General Policies,Medium,What should I do if how should business travel be balanced with virtual meetings?,IN_SCOPE
+Q181,General Policies,Hard,My team is affected by a regional office outage and we need to keep work moving. What is the default operating model?,IN_SCOPE
+Q182,General Policies,Hard,Can you help me with my team is affected by a regional office outage and we need to keep work moving. what is the default operating model?,IN_SCOPE
+Q183,General Policies,Hard,What should I do if my team is affected by a regional office outage and we need to keep work moving. what is the default operating model?,IN_SCOPE
+Q184,General Policies,Hard,We are launching a new AI tool in my department. What approval path should we follow?,IN_SCOPE
+Q185,General Policies,Hard,Can you help me with we are launching a new ai tool in my department. what approval path should we follow?,IN_SCOPE
+Q186,General Policies,Hard,What should I do if we are launching a new ai tool in my department. what approval path should we follow?,IN_SCOPE
+Q187,General Policies,Easy,Can you recommend a restaurant nearby for lunch?,OUT_OF_SCOPE
+Q188,General Policies,Easy,What is the latest stock price?,OUT_OF_SCOPE
+Q189,HR,Hard,I am on a performance improvement plan and need to know what should be documented next.,IN_SCOPE
+Q190,IT,Hard,I need to access a customer support system from a hotel Wi-Fi connection. What do I need before logging in?,IN_SCOPE
+Q191,Security,Hard,I need to send a file containing customer data to a partner. What is the approved path?,IN_SCOPE
+Q192,Finance,Hard,"I need to buy a $2,500 tool outside the travel portal. What approval do I need?",IN_SCOPE
+Q193,Legal,Hard,I want to reuse a partner's template in a proposal. What legal review should happen first?,IN_SCOPE
+Q194,General Policies,Hard,Our team is affected by a regional office outage. What is the default operating model for the week?,IN_SCOPE
+Q195,General Policies,Medium,What is the right channel for a formal update to an external client?,IN_SCOPE
+Q196,General Policies,Easy,What should I do if I have a policy question about item 195?,OUT_OF_SCOPE
+Q197,General Policies,Easy,What should I do if I have a policy question about item 196?,OUT_OF_SCOPE
+Q198,General Policies,Easy,What should I do if I have a policy question about item 197?,OUT_OF_SCOPE
+Q199,General Policies,Easy,What should I do if I have a policy question about item 198?,OUT_OF_SCOPE
+Q200,General Policies,Easy,What should I do if I have a policy question about item 199?,OUT_OF_SCOPE
