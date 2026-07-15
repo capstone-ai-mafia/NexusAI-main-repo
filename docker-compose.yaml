@@ -80,7 +80,9 @@ services:
     ports:
       - "3000:3000"
     environment:
-      NEXT_PUBLIC_API_BASE_URL: http://backend:8000
+      # NEXT_PUBLIC_* vars are inlined into the client bundle at build time
+      # (see Dockerfile.frontend) -- setting them here has no effect on the
+      # already-built browser bundle, only on server-side Next.js code.
       NEXT_PUBLIC_USE_MOCK: "false"
     restart: unless-stopped
 

@@ -1,3 +1,11 @@
+from dotenv import load_dotenv
+
+# Must run before any app/rag module reads its env vars (DATABASE_URL,
+# CHROMA_PATH, OLLAMA_BASE_URL, etc.) at import time. Native runs rely on
+# this to pick up the project-root .env; Docker Compose sets the same
+# variables directly in the container environment, so this is a no-op there.
+load_dotenv()
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 

@@ -41,7 +41,8 @@ def chat(
 
 
         result = get_rag_answer(
-            request.question
+            request.question,
+            request.department
         )
 
 

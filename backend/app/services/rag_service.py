@@ -17,8 +17,8 @@ if PROJECT_ROOT not in sys.path:
 from rag.pipeline import ask
 
 
-def get_rag_answer(question: str):
-    result = ask(question)
+def get_rag_answer(question: str, department: str | None = None):
+    result = ask(question, department)
 
     department = None
 

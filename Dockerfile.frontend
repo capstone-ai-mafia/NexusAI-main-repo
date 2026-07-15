@@ -7,7 +7,11 @@ RUN npm ci
 
 COPY nexus-ai-frontend ./
 
-ENV NEXT_PUBLIC_API_BASE_URL=http://backend:8000
+# NEXT_PUBLIC_API_BASE_URL is intentionally left unset: it's inlined into
+# the client bundle at build time, and "http://backend:8000" (the Docker
+# network hostname) is unreachable from the browser. lib/api.ts falls back
+# to `http://<page hostname>:8000`, which matches the published backend
+# port in docker-compose.yaml.
 ENV NEXT_PUBLIC_USE_MOCK=false
 
 RUN npm run build

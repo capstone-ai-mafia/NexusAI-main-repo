@@ -5,6 +5,7 @@ from pydantic import BaseModel, ConfigDict, Field
 
 class ChatRequest(BaseModel):
     question: str
+    department: str | None = None
 
 
 class GraphNode(BaseModel):
