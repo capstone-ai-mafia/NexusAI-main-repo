@@ -80,3 +80,23 @@ export interface ExampleQuestion {
   question: string;
   department: Department;
 }
+
+export interface DocumentRecord {
+  id: number;
+  filename: string;
+  department: string | null;
+  file_type: string | null;
+  file_size: number | null;
+  status: string;
+  uploaded_at: string | null;
+}
+
+export interface ChatHistoryEntry {
+  id: number;
+  question: string;
+  answer: string | null;
+  confidence: number | null;
+  latency: number | null;
+  status: string;
+  created_at: string;
+}

@@ -13,12 +13,16 @@ const CONFIG_API_BASE_URL =
 const REQUEST_TIMEOUT_MS = 60_000;
 
 export function getApiBaseUrl(): string {
+  if (CONFIG_API_BASE_URL) {
+    return CONFIG_API_BASE_URL;
+  }
+
   if (typeof window !== "undefined") {
     const hostname = window.location.hostname;
     return `http://${hostname}:8000`;
   }
 
-  return CONFIG_API_BASE_URL || "http://localhost:8000";
+  return "http://localhost:8000";
 }
 
 const FORCE_MOCK = process.env.NEXT_PUBLIC_USE_MOCK === "true";
@@ -34,6 +38,25 @@ export class ApiError extends Error {
 
 function isObject(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null;
+}
+
+// Maps the frontend's department labels onto the lowercase department tags
+// used as Chroma metadata / retrieval filters on the backend. "General"
+// corresponds to the company-wide corpus (data/company), matching the
+// backend's own classifier-label mapping.
+const BACKEND_DEPARTMENT: Record<string, string> = {
+  hr: "hr",
+  it: "it",
+  finance: "finance",
+  legal: "legal",
+  security: "security",
+  general: "company",
+};
+
+function toBackendDepartment(department: unknown): string | undefined {
+  const key = String(department ?? "").toLowerCase();
+  if (key === "all" || key === "") return undefined;
+  return BACKEND_DEPARTMENT[key];
 }
 
 function normalizeDepartment(
@@ -127,6 +150,7 @@ async function liveQuery(
       },
       body: JSON.stringify({
         question: request.question,
+        department: toBackendDepartment(request.department),
       }),
       signal: controller.signal,
     });
